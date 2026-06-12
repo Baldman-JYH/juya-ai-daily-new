@@ -1,0 +1,17 @@
+base_url = "https://daily.juya.uk/"
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+theme = "even"
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+[extra]
+even_title = "橘鸦AI早报"
+even_menu = [
+    {url = "/", name = "Home"},
+    {url = "/tags/top/", name = "Top"},
+]
+[markdown]
+highlight_code = true
+render_emoji = true

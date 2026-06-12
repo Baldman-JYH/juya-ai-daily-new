@@ -1,0 +1,43 @@
+# 橘鸦AI早报
+
+> 本仓库将AI早报备份为Markdown存档并自动生成RSS订阅。资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。
+
+正式订阅地址：https://daily.juya.uk/rss.xml
+
+> [!IMPORTANT]
+> 由于原 GitHub 账号被封禁，本仓库为新的发布地址；旧仓库、旧 Issues 链接和历史订阅地址已无法恢复。
+
+RSS正常提供服务中。Folo 可能出现接收不到最新文章以及接收文章时间有较大延迟的问题，建议使用其他RSS阅读器
+
+## Links
+
+| Platform | Link |
+| :--- | :--- |
+| RSS Feed | [Subscribe](https://daily.juya.uk/rss.xml) |
+| Markdown 备份 | [BACKUP](https://github.com/jujuyaya/juya-ai-daily/tree/main/BACKUP) |
+| GitHub Pages | [View](https://daily.juya.uk/) |
+| 第三方多功能阅读器（@ViggoZ 制作） | [juya-daily](https://viggoz.github.io/juya-daily/) |
+| AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
+| AI早报 视频版-YouTube | [YouTube](https://www.youtube.com/@imjuya) |
+
+---
+
+
+## 最近更新
+
+暂无。发布第一篇新 Issue 后，本区域会由 GitHub Actions 自动更新。
+
+---
+
+## License
+
+- 代码（脚本与站点生成逻辑，基于 [yihong0618/gitblog](https://github.com/yihong0618/gitblog)）：[MIT](./LICENSE)
+- 文章内容（`BACKUP/`、`rss.xml`）：[CC BY-NC 4.0](./LICENSE-CONTENT)
+- 转载要求：署名，禁止商用
+- 第三方素材除外，按原权利声明
+
+---
+
+## Credits
+
+Built with [gitblog](https://github.com/yihong0618/gitblog) by [@yihong0618](https://github.com/yihong0618)
