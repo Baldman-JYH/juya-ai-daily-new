@@ -1,5 +1,280 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo可能出现接收不到最新文章以及接收文章延迟的问题。建议使用其他RSS阅读器。</description><atom:link href="https://daily.juya.uk/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://daily.juya.uk/icon.png</url><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 12 Jun 2026 16:29:46 +0000</lastBuildDate><itunes:image href="https://daily.juya.uk/icon.png"/><webfeeds:icon>https://daily.juya.uk/icon.png</webfeeds:icon><webfeeds:logo>https://daily.juya.uk/icon.png</webfeeds:logo><item><title>2026-06-12</title><link>https://daily.juya.uk/issue-1/</link><description>AI 早报 2026-06-12 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 OpenAI 为用户提供重置速率限制权益1次并升级速率限制重置机制 ↗ #1 Antigravity 2.0 推出模型配额面板并重置 Gemini 配额 ↗ #2 Cursor 发布 Auto-review 功能管控 Agent 自主性 ↗ #3 SpaceXAI 推出 Grok Build 插件市场 ↗ #4 阿里云发布 Meoo CLI 开源工具：支持本地 AI 项目一键部署上线 ↗ #5 产品应用 Google 扩展 Gemini Notebooks 与 Chrome AI 功能至多国市场 ↗ #6 Midjourney 将默认模型更新至 V8.1 ↗ #7 技术与洞察 Ai2 推出 ModSleuth 追踪 LLM…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260613/20260613001848883491be04_cover_98d5.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo可能出现接收不到最新文章以及接收文章延迟的问题。建议使用其他RSS阅读器。</description><atom:link href="https://daily.juya.uk/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://daily.juya.uk/icon.png</url><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 13 Jun 2026 00:46:16 +0000</lastBuildDate><itunes:image href="https://daily.juya.uk/icon.png"/><webfeeds:icon>https://daily.juya.uk/icon.png</webfeeds:icon><webfeeds:logo>https://daily.juya.uk/icon.png</webfeeds:logo><item><title>2026-06-13</title><link>https://daily.juya.uk/issue-2/</link><description>AI 早报 2026-06-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 月之暗面发布 Kimi K2.7 Code 并开源 ↗ #1 Kimi 宣布推出全球首张 AI 原生信用卡并开启预约 ↗ #2 模型发布 MiniMax 正式开放 M3 模型权重：约 428B 总参数和 23B 激活参数 ↗ #3 华为发布开源盘古 openPangu 2.0 模型，计划 6 月 30 日起陆续开源核心组件 #4 PaddleOCR 发布 PP-OCRv6 ↗ #5 智源研究院在智源大会发布多款大模型及智能体 ↗ #6 开发生态 OpenAI 开发者网站上线可生成自定义指南的 docs Agent ↗ #7 OpenAI 为 Codex 浏览器推出开发者模式 ↗ #8 微信开源 ai-mode-skills 仓…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260613/202606130836053372871d3d_cover_f538.png" alt=""></p>
+<h1>AI 早报 2026-06-13</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1oMJ76bE73">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=kkkX1kHY-CQ">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>月之暗面发布 Kimi K2.7 Code 并开源 <a href="https://mp.weixin.qq.com/s/NBw1VAA9MjpKv-Rirq9qDg">↗</a> <code>#1</code></li>
+<li>Kimi 宣布推出全球首张 AI 原生信用卡并开启预约 <a href="https://mp.weixin.qq.com/s/frUNYNnP3svCv3c4pzG9aQ">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>MiniMax 正式开放 M3 模型权重：约 428B 总参数和 23B 激活参数 <a href="https://huggingface.co/MiniMaxAI/MiniMax-M3">↗</a> <code>#3</code></li>
+<li>华为发布开源盘古 openPangu 2.0 模型，计划 6 月 30 日起陆续开源核心组件 <code>#4</code></li>
+<li>PaddleOCR 发布 PP-OCRv6 <a href="https://github.com/paddlepaddle/paddleocr">↗</a> <code>#5</code></li>
+<li>智源研究院在智源大会发布多款大模型及智能体 <a href="https://zhidx.com/p/565250.html">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenAI 开发者网站上线可生成自定义指南的 docs Agent <a href="http://developers.openai.com">↗</a> <code>#7</code></li>
+<li>OpenAI 为 Codex 浏览器推出开发者模式 <a href="https://x.com/OpenAIDevs/status/2065226355495895521">↗</a> <code>#8</code></li>
+<li>微信开源 ai-mode-skills 仓库助力小程序接入 AI <a href="https://github.com/wechat-miniprogram/ai-mode-skills">↗</a> <code>#9</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>字节豆包上线“任务模式”并升级“专家模式” <a href="https://www.ithome.com/0/963/725.htm">↗</a> <code>#10</code></li>
+<li>MiniMax Hub 正式上线：本地多模态 AI Agent 创作工作室 <a href="https://hub.minimaxi.com/">↗</a> <code>#11</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>DeepMind 报告分析 ASI 发展提出四条演进路径与六大瓶颈 <a href="https://arxiv.org/abs/2606.12683">↗</a> <code>#12</code></li>
+<li>美团 LongCat 团队开源 MineExplorer 开放世界 Agent 评测基准 <a href="https://github.com/meituan-longcat/MineExplorer">↗</a> <code>#13</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>中央网信办举报中心开设涉AI应用乱象举报专区 <a href="https://www.cac.gov.cn/2026-06/12/c_1782660002371256.htm">↗</a> <code>#14</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>消息称 Mistral AI 拟融资30亿欧元 目标估值约200亿欧元 <a href="https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation">↗</a> <code>#15</code></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/NBw1VAA9MjpKv-Rirq9qDg">月之暗面发布 Kimi K2.7 Code 并开源</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>月之暗面</strong>正式发布并开源专注于编程的 <code>Kimi K2.7 Code</code> 模型，该模型基于总参数 <code>1T</code>、激活参数 <code>32B</code> 的 <code>MoE</code> 架构，支持 <code>256K</code> 上下文及多模态输入。官方称相比上一代，该模型不仅减少了约 <strong>30%</strong> 的推理 <code>token</code> 消耗，还在多项代码与 <code>Agent</code> 基准测试中实现显著提升，现已上线 <code>API</code> 与 <code>Kimi Code</code>，官方建议非编程任务仍使用 <code>K2.6</code>。此外，输出速度约为普通版 <strong>6 倍</strong>的“<code>Kimi K2.7 Code</code> 高速版”预计下周在 <code>API</code> 上线，平台同步推出了为期<strong>三周</strong>的充值赠送代金券活动。</p>
+</blockquote>
+<p><strong>月之暗面</strong>发布并开源编程模型 <code>Kimi K2.7 Code</code>。</p>
+<p>该模型基于 <code>1T</code> 总参数、<code>32B</code> 激活参数的 <code>MoE</code> 架构，支持 <code>256K</code> 上下文及多模态输入。</p>
+<p>官方数据显示，其平均推理 <code>token</code> 消耗较上代减少约 <strong>30%</strong>，多项代码与 <code>Agent</code> 基准测试显著提升。</p>
+<p>现已上线 <code>API</code> 与 <code>Kimi Code</code>，输出定价每百万 <code>tokens</code> <strong>27 元</strong>。</p>
+<p>使用时强制开启思考模式，官方建议非编程任务仍用 <code>K2.6</code>。</p>
+<p>平台同步推出为期 <strong>三周</strong> 的充值赠送活动。</p>
+<p>此外，速度约 <strong>5</strong> 至 <strong>6</strong> 倍的高速版预计下周上线 <code>API</code>，价格为普通版两倍。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/1a3cc9fc-b669-43b5-9de1-189eb80973f4/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/1a3cc9fc-b669-43b5-9de1-189eb80973f4/m002.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/1a3cc9fc-b669-43b5-9de1-189eb80973f4/m003.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/1a3cc9fc-b669-43b5-9de1-189eb80973f4/m004.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/NBw1VAA9MjpKv-Rirq9qDg">https://mp.weixin.qq.com/s/NBw1VAA9MjpKv-Rirq9qDg</a></li>
+<li><a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code">https://huggingface.co/moonshotai/Kimi-K2.7-Code</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/frUNYNnP3svCv3c4pzG9aQ">Kimi 宣布推出全球首张 AI 原生信用卡并开启预约</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Kimi</strong> 宣布开放“全球首张 AI 原生信用卡”预约，拟允许消费积分兑换算力与 <code>Agent</code> 额度。同时，持卡人还将享有 <strong>Kimi</strong> 最新模型能力的优先内测机会以及专属 <code>AI</code> 行业闭门沙龙参与权。官方强调，目前仅为意向登记，预计 <strong>7 月</strong> 正式亮相，最终权益以合作银行披露为准。</p>
+</blockquote>
+<p><strong>Kimi</strong> 官方宣布“全球首张 AI 原生信用卡”——<code>Kimi信用卡</code>正式开启预约，预计将于 <strong>7 月</strong> 正式亮相。</p>
+<p>该产品旨在将 AI 服务纳入核心权益，持卡人的消费积分可兑换一定形式的 <code>Kimi</code> 算力额度、<code>Agent</code> 使用额度及高级功能权限。</p>
+<p>同时，持卡人还将享有 <code>Kimi</code> 最新模型能力的优先内测机会以及专属 AI 行业闭门沙龙参与权。</p>
+<p>官方强调，目前公布的权益仍在完善调优中，当前预约仅为意向登记，不代表审批或发卡结果。</p>
+<p>具体申领条件及产品权益均需以合作银行最终披露的信息为准。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/42c387cb-559d-4004-92d2-f40cda8e84e1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/frUNYNnP3svCv3c4pzG9aQ">https://mp.weixin.qq.com/s/frUNYNnP3svCv3c4pzG9aQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/MiniMaxAI/MiniMax-M3">MiniMax 正式开放 M3 模型权重：约 428B 总参数和 23B 激活参数</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 现已正式在 Hugging Face 上开放 <code>MiniMax M3</code> 模型权重，该模型拥有约 <strong>428B</strong> 总参数和 <strong>23B</strong> 激活参数，支持 <code>1M</code> 上下文和原生多模态。该许可证允许非商业用途免费使用，商业用途则需在界面展示特定标识，且年收入超过 <strong>2000 万美元</strong> 的产品需获得事先书面授权。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 正式在 <strong>Hugging Face</strong> 开放了 <code>MiniMax M3</code> 的模型权重。</p>
+<p>该模型拥有约 <strong>428B</strong> 总参数和 <strong>23B</strong> 激活参数，支持 <strong>1M</strong> 上下文的原生多模态。</p>
+<p>此次权重发布附带“<strong>MINIMAX COMMUNITY LICENSE</strong>”，明确规定非商业用途可免费使用、修改和分发。</p>
+<p>对于商业用途，许可证要求必须在相关网页或产品文档中醒目展示“<strong>Built with MiniMax M3</strong>”标识。</p>
+<p>若使用该模型的产品或服务年收入超过 <strong>2000 万美元</strong>，需向 <strong>MiniMax</strong> 申请并获得事先书面授权，未超过此金额则仅需发送一次性通知。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/8751024d-9068-428e-bfa7-03e6d39d3854/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/MiniMaxAI/MiniMax-M3">https://huggingface.co/MiniMaxAI/MiniMax-M3</a></li>
+<li><a href="https://github.com/MiniMax-AI/MiniMax-M3">https://github.com/MiniMax-AI/MiniMax-M3</a></li>
+</ul>
+<hr>
+<h2>华为发布开源盘古 openPangu 2.0 模型，计划 6 月 30 日起陆续开源核心组件 <code>#4</code></h2>
+<blockquote>
+<p><strong>华为</strong>正式发布开源大模型 <code>openPangu 2.0</code> 系列。该系列支持<strong>512K</strong>上下文窗口，包含最高<strong>505B</strong>参数的<code>Pro</code>版和<strong>92B</strong>参数的<code>Flash</code>版。它深度适配<strong>昇腾</strong>算力与<strong>鸿蒙</strong>生态，能提升 <code>Agent</code> 任务的执行效率并节省资源。<strong>华为</strong>计划从<strong>6月30日</strong>起陆续开源七大核心组件。</p>
+</blockquote>
+<p>在 <strong>华为</strong> 开发者大会 <code>HDC 2026</code> 上，<strong>华为常务董事余承东</strong> 正式发布了全新的开源盘古大模型 <code>openPangu 2.0</code> 系列。</p>
+<p>该系列统一支持 <strong>512K</strong> 超长上下文窗口，分为 <code>Pro</code> 和 <code>Flash</code> 两个版本以适配不同算力场景。</p>
+<p>其中 <code>Pro</code> 版总参数量 <strong>505B</strong>（激活参数 <strong>18B</strong>），<code>Flash</code> 版总参数量 <strong>92B</strong>（激活参数 <strong>6B</strong>）。</p>
+<p><code>openPangu 2.0</code> 深度适配 <code>HarmonyOS</code> 生态并针对 <code>昇腾</code> 算力进行优化，官方称其单卡吞吐量最高可达业界主流开源模型的两倍。</p>
+<p><strong>华为</strong> 计划自 <strong>6 月 30 日</strong> 起，陆续开源包括模型架构、权重、预训练与后训练代码等在内的七大核心组件。</p>
+<hr>
+<h2><a href="https://github.com/paddlepaddle/paddleocr">PaddleOCR 发布 PP-OCRv6</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>PaddleOCR</strong> 团队发布了 <code>PP-OCRv6</code> 轻量级 <strong>OCR</strong> 系统。该系统基于 <code>MetaFormer</code> 架构，提供参数量 <strong>1.5M</strong> 到 <strong>34.5M</strong> 的三档模型。官方称，其 <code>medium</code> 模型精度超越了 <code>GPT-5.5</code> 等视觉大模型，并强化了复杂工业场景的多语种识别。</p>
+</blockquote>
+<p><strong>PaddleOCR</strong> 团队正式发布 <code>PP-OCRv6</code> 轻量级 <code>OCR</code> 系统。</p>
+<p>该系统包含 <strong>tiny</strong>、<strong>small</strong> 与 <strong>medium</strong> 三档模型。
+参数量覆盖 <strong>1.5M</strong> 至 <strong>34.5M</strong>，适用于端侧到服务端的各类部署场景。</p>
+<p>官方称，<strong>medium</strong> 模型在检测与识别精度上较上一代 <strong>server</strong> 版本分别提升 <strong>4.6%</strong> 和 <strong>5.1%</strong>。
+并在多项 <code>OCR</code> 测试中超越了 <code>GPT-5.5</code>、<code>Qwen3-VL-235B</code> 等大视觉模型。</p>
+<p>该系统采用 <code>MetaFormer</code> 统一架构，原生支持多种语言及工业复杂场景。
+所有模型均已在 <strong>HuggingFace</strong> 等平台上线。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/2dede95d-6dc5-4b9a-a56c-c6c78115b1e2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/paddlepaddle/paddleocr">https://github.com/paddlepaddle/paddleocr</a></li>
+<li><a href="https://paddlepaddle.github.io/PaddleOCR/latest/en/index.html">https://paddlepaddle.github.io/PaddleOCR/latest/en/index.html</a></li>
+<li><a href="https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_det">https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_det</a></li>
+<li><a href="https://arxiv.org/abs/2606.13108">https://arxiv.org/abs/2606.13108</a></li>
+</ul>
+<hr>
+<h2><a href="https://zhidx.com/p/565250.html">智源研究院在智源大会发布多款大模型及智能体</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>智源研究院</strong>在<strong>2026 智源大会</strong>发布多项核心成果。大模型方面，推出了能将脑信号与图文声互转的神经科学模型 <code>Brainμ 1.0</code>。应用层面，发布了具身大脑 <code>RoboBrain Orca v0</code> 与四款医疗科研智能体。基础系统众智 <code>FlagOS 2.1</code> 版官方称已适配 <strong>32</strong> 款芯片。世界模型 <code>Physis v0.1</code> 仍在研发中。</p>
+</blockquote>
+<p>在 <strong>2026智源大会</strong> 上，<strong>智源研究院</strong> 发布多项成果。</p>
+<p>发布多模态 <code>Emu3.5</code>（官方称登《<strong>Nature</strong>》）、神经科学 <code>Brainμ 1.0</code> 及官方称全球最全数据集、药物发现 <code>OpenComplex 2.5</code>。</p>
+<p>世界模型 <code>Physis v0.1</code> 计划未来数月开源。</p>
+<p>推出具身大脑 <code>RoboBrain v0</code>（合作 <strong>50</strong> 余家企业）及 <strong>4</strong> 款智能体，心脏诊断智能体官方称达顶尖医生水平。</p>
+<p>发布众智 <code>FlagOS 2.1</code>，官方称适配 <strong>18</strong> 家厂商 <strong>32</strong> 款芯片，支撑 <strong>90%</strong> 开源模型。</p>
+<p><strong>图灵奖</strong>得主预测 <strong>2050年</strong> 机器智能将超越人类。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhidx.com/p/565250.html">https://zhidx.com/p/565250.html</a></li>
+</ul>
+<hr>
+<h2><a href="http://developers.openai.com">OpenAI 开发者网站上线可生成自定义指南的 docs Agent</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 在其开发者网站推出了全新的 <code>docs Agent</code>。该工具不仅能帮助用户查找关于 <strong>OpenAI</strong> 产品的解答并直接定位相关文档，还能根据用户描述的开发需求生成包含定制提示词的自定义指南，支持在 <code>Codex</code> 中打开或以 <code>Markdown</code> 格式复制。</p>
+</blockquote>
+<p><strong>OpenAI Developers</strong> 官方宣布，已在 <code>developers.openai.com</code> 网站上线全新的 <strong>docs Agent</strong>。</p>
+<p>该 <strong>Agent</strong> 可以协助开发者查找关于 <strong>OpenAI</strong> 产品的答案，并直接导航至相关的官方文档。</p>
+<p>除了回答问题，用户还可以描述自己正在构建的项目内容。</p>
+<p>该 <strong>Agent</strong> 会据此生成一份包含定制提示词和相关资源的自定义指南。</p>
+<p>生成的指南支持直接在 <code>Codex</code> 中打开。</p>
+<p>或者作为 <code>Markdown</code> 复制给其他的编程 <strong>Agent</strong> 使用。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/83dcec0b-f462-448d-9e22-629dc614e8e3/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://developers.openai.com">http://developers.openai.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2065226355495895521">OpenAI 为 Codex 浏览器推出开发者模式</a> <code>#8</code></h2>
+<blockquote>
+<p>OpenAI 为 <strong>Codex</strong> 内置浏览器及 <strong>Chrome</strong> 插件推出<strong>开发者模式</strong>，允许 <strong>Agent</strong> 通过 <code>CDP</code> 调试浏览器问题并检查网络流量，同时本次更新后，浏览器使用速度<strong>最高提升两倍</strong>。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 在近期的更新中为 <code>Codex</code> 的内置浏览器与 <strong>Chrome</strong> 插件引入了开发者模式。</p>
+<p>该模式赋予 <code>Agent</code> 完整的 <strong>Chrome DevTools 协议</strong>（<strong>CDP</strong>）访问权限，使其能够分析 <code>JavaScript</code> 性能、检查运行时错误与控制台日志，并审查实时 <code>DOM</code>、存储、网络请求和页面状态，从而协助诊断复杂的 <code>Bug</code>。</p>
+<p>官方表示，得益于插件效率优化与冗余文本截断，本次更新后 <code>Codex</code> 的浏览器使用速度最高可提升两倍。</p>
+<p>开发者模式需在设置中手动开启，且由于涉及敏感数据，<code>Codex</code> 在使用完整 <strong>CDP</strong> 前需获得用户明确批准。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/3f9d1b54-8869-49ca-9398-a8ddc1a61b92/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2065226355495895521">https://x.com/OpenAIDevs/status/2065226355495895521</a></li>
+<li><a href="https://x.com/TheRealAdamG/status/2065248621205839902">https://x.com/TheRealAdamG/status/2065248621205839902</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/wechat-miniprogram/ai-mode-skills">微信开源 ai-mode-skills 仓库助力小程序接入 AI</a> <code>#9</code></h2>
+<blockquote>
+<p>微信小程序团队在 GitHub 上线 <code>ai-mode-skills</code> 仓库，提供一套将小程序源码改造为可被 AI 调度的原子接口与组件的工具集，包含<strong>生成</strong>、<strong>校验</strong>和<strong>评测</strong>三个核心 <code>skill</code>。</p>
+</blockquote>
+<p><strong>微信小程序团队</strong>在 <strong>GitHub</strong> 发布 <strong>wechat-miniprogram/ai-mode-skills</strong> 仓库，用于把任意小程序源码改造为可被小程序 <code>AI</code> 调度的原子接口和原子组件。</p>
+<p>该仓库是一个 <strong>monorepo</strong>，包含 <code>wxa-skills-generate</code>、<code>wxa-skills-validate</code> 和 <code>wxa-skills-eval</code> 三个独立 <code>skill</code>，按顺序完成从业务识别、代码生成到真机执行与渲染验证的闭环工作流。</p>
+<p>生成与校验功能依赖支持 <code>Skills</code> 的 <code>IDE</code> 及 <strong>nightly</strong> 版本的<strong>微信开发者工具</strong>，且需在工具中开启服务端口。</p>
+<p>评测功能则作为独立的 <code>Node</code> 工程，要求 <code>Node</code> 版本不低于 <strong>18.17</strong>。</p>
+<p>官方建议开发者在生成阶段每次优先处理小部分业务逻辑，验证通过后再逐步扩展。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/318b064f-3f56-4d81-95b9-1518837bb795/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/wechat-miniprogram/ai-mode-skills">https://github.com/wechat-miniprogram/ai-mode-skills</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.ithome.com/0/963/725.htm">字节豆包上线“任务模式”并升级“专家模式”</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>字节跳动</strong>旗下<strong>豆包</strong>大范围上线“任务模式”并支持定时执行与文件生成，同时将“思考模式”升级为侧重深度推理的“专家模式”。</p>
+</blockquote>
+<p><strong>字节跳动</strong>旗下 <code>AI</code> 应用<strong>豆包</strong>已大范围上线全新的“任务模式”，并将原有的“思考模式”升级为“专家模式”。</p>
+<p>新上线的<code>任务模式</code>定位为 <code>Agent</code> 能力，用户只需输入明确目标，<code>AI</code> 即可自主完成从任务拆解、联网搜索到结果交付的全链路执行。</p>
+<p>目前支持<code>零代码网页生成</code>、<code>一键制作 PPT</code>、<code>数据可视化分析</code>以及按预设时间自动运行的<code>后台定时任务</code>。</p>
+<p>升级后的<code>专家模式</code>则调用<strong>豆包大模型 <code>2.0 Pro</code></strong> 版本，采用原生 <code>Agent</code> 架构。</p>
+<p>该模式主要面向<strong>行业分析</strong>、<strong>数学推理</strong>和<strong>法律文书校验</strong>等需要深度解答的复杂场景。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/5aefa156-cf19-4c60-9ece-25ff31eec948/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.ithome.com/0/963/725.htm">https://www.ithome.com/0/963/725.htm</a></li>
+</ul>
+<hr>
+<h2><a href="https://hub.minimaxi.com/">MiniMax Hub 正式上线：本地多模态 AI Agent 创作工作室</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 宣布正式上线本地多模态 AI 创作平台 <strong>MiniMax Hub</strong>。该平台通过主 <code>Agent</code> 调度多款模型，协同执行从脚本到成片的全流程，支持直接调用本地素材并一键导出至剪辑软件。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 宣布其本地多模态 AI 创作平台 <code>MiniMax Hub</code> 正式上线，官方将其定位为多模态创作 <code>Agent</code>。</p>
+<p>平台的主 <code>Agent</code> 可理解创作意图并拆解任务，调度文案、图像、视频和音频等专属 <code>Agent</code> 并行处理，接入多款模型覆盖全链路创作。</p>
+<p><code>MiniMax Hub</code> 支持在用户电脑本地运行，可直接读取本地素材，并允许一键导出至专业剪辑软件。</p>
+<p>此外，平台内置 <code>Skill</code> 机制以沉淀和复用工作流，官方提供限时福利，<strong>7月1日</strong>前登录可获<strong>3000积分</strong>。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/4ba4ff28-4918-4fbc-bcec-37d54114c5e7/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hub.minimaxi.com/">https://hub.minimaxi.com/</a></li>
+</ul>
+<hr>
+<h2><a href="https://arxiv.org/abs/2606.12683">DeepMind 报告分析 ASI 发展提出四条演进路径与六大瓶颈</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong> 团队近期在 <strong>arXiv</strong> 发表报告，探讨了从 <code>AGI</code> 向 <code>ASI</code> 的演进。报告提出了四条潜在发展路径，并详细分析了数据、资源和算法等可能制约该过程的六大瓶颈。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong>团队近期在 <code>arXiv</code> 发布了一份长达 <strong>60</strong> 页的报告。</p>
+<p>报告详细探讨了 <code>AI</code>从人类水平的 <code>AGI</code> 向 <code>ASI</code> 过渡的连续演进过程。</p>
+<p>报告将 <code>ASI</code> 定义为在几乎所有认知领域都优于大型人类专家组的系统。</p>
+<p>并提出了扩展规模、算法范式转变、递归式自我改进以及多<code>Agent</code>集体协作四条演进路径。</p>
+<p>作者指出，这一过程可能面临高质量数据枯竭、物理基础设施扩张受限、现有<code>神经网络</code>范式触及天花板等六大关键摩擦与瓶颈。</p>
+<p>该报告认为，由单一 <code>AGI</code> 引发社会阶跃式变化的设想可能并不准确。</p>
+<p>未来更有可能出现一系列由 <code>AI</code> 推动的科技突破。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2606.12683">https://arxiv.org/abs/2606.12683</a></li>
+<li><a href="https://x.com/kimmonismus/status/2065487181662286301">https://x.com/kimmonismus/status/2065487181662286301</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/meituan-longcat/MineExplorer">美团 LongCat 团队开源 MineExplorer 开放世界 Agent 评测基准</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>美团LongCat</strong> 团队开源 <strong>MineExplorer</strong> 基准，用于在 <code>Minecraft</code> 动态世界中评测 <strong>MLLM Agent</strong> 的长程探索与推理能力，对 <strong>18</strong> 个前沿模型测试最高仅得 <strong>41</strong> 分。</p>
+</blockquote>
+<p><strong>美团</strong> <strong>LongCat</strong> 团队发布了 <code>MineExplorer</code> 基准及配套代码与数据集，用于评估多模态大语言模型 <code>Agent</code> 在 <code>Minecraft</code> 开放世界中的长程探索能力。</p>
+<p>该基准过滤了依赖游戏专属知识的原子任务，通过多 <code>Agent</code> 合成工作流将原子任务组合为隐式多跳任务，单次交互最长 <strong>1,800步</strong>、约 <strong>3分钟</strong>。</p>
+<p>团队对 <strong>18个</strong> 前沿 <code>MLLM</code> 的测试显示，最强模型总分为 <strong>41/100</strong>，单跳任务完成率达 <strong>77%</strong>，但四跳任务骤降至 <strong>12%</strong>。</p>
+<p>约 <strong>60%</strong> 的失败源于导航问题，增加交互步数或记忆帧数均未有效改善。</p>
+<p>代码已在 <code>GitHub</code> 以 <code>MIT</code> 协议开源，论文发布于 <code>arXiv</code>，数据集同步上线 <code>HuggingFace</code>。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/17a63a6f-35ff-451c-8b98-38dba9a806fd/m001.gif" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/f538e911-1b1c-4e0b-aecb-d554634f1321/17a63a6f-35ff-451c-8b98-38dba9a806fd/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/meituan-longcat/MineExplorer">https://github.com/meituan-longcat/MineExplorer</a></li>
+<li><a href="https://arxiv.org/abs/2605.30931">https://arxiv.org/abs/2605.30931</a></li>
+<li><a href="https://huggingface.co/datasets/meituan-longcat/MineExplorer">https://huggingface.co/datasets/meituan-longcat/MineExplorer</a></li>
+<li><a href="https://x.com/Meituan_LongCat/status/2065464844112064541">https://x.com/Meituan_LongCat/status/2065464844112064541</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.cac.gov.cn/2026-06/12/c_1782660002371256.htm">中央网信办举报中心开设涉AI应用乱象举报专区</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>中央网信办举报中心</strong>即日起开设“涉<code>AI</code>应用乱象举报专区”，专项受理公众关于未按规定履行大模型备案、生成合成内容未标识等<strong>14</strong>类问题的举报。</p>
+</blockquote>
+<p>为配合 <strong>“清朗·整治AI应用乱象”</strong> 专项行动，<strong>中央网信办举报中心</strong> 开设 <strong>“涉AI应用乱象举报专区”</strong>。</p>
+<p>该举报专区重点针对 <code>AI</code> 应用服务违规与信息内容乱象。</p>
+<p>具体涵盖 <strong>未按规定履行大模型备案、生成合成内容标识落实不到位、制作发布虚假不实信息</strong> 等共计 <strong>14</strong> 类问题。</p>
+<p>目前公众可通过 <strong>12377</strong> 举报电话、<strong>12377.cn</strong> 网站以及官方社交账号和客户端提交相关举报。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.cac.gov.cn/2026-06/12/c_1782660002371256.htm">https://www.cac.gov.cn/2026-06/12/c_1782660002371256.htm</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation">消息称 Mistral AI 拟融资30亿欧元 目标估值约200亿欧元</a> <code>#15</code></h2>
+<blockquote>
+<p>据媒体报道，法国AI公司<strong>Mistral AI</strong>据传正进行早期融资谈判，计划筹集约<strong>30亿欧元</strong>，目标估值约为<strong>200亿欧元</strong>。</p>
+</blockquote>
+<p>据媒体援引匿名消息来源报道，法国AI实验室 <strong>Mistral AI</strong> 正处于早期讨论阶段，拟筹集约 <strong>30亿欧元</strong> 资金。</p>
+<p>此次融资预计对公司的估值将达到约 <strong>200亿欧元</strong>，这一数字几乎是其在 <strong>去年9月份</strong> <code>C轮融资</code>中所获 <strong>117亿欧元</strong> 估值的两倍。</p>
+<p><strong>Mistral AI</strong> 未立即对上述传闻予以置评。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation">https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/jujuyaya/juya-ai-daily/issues/2</guid><pubDate>Sat, 13 Jun 2026 00:45:53 +0000</pubDate></item><item><title>2026-06-12</title><link>https://daily.juya.uk/issue-1/</link><description>AI 早报 2026-06-12 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 OpenAI 为用户提供重置速率限制权益1次并升级速率限制重置机制 ↗ #1 Antigravity 2.0 推出模型配额面板并重置 Gemini 配额 ↗ #2 Cursor 发布 Auto-review 功能管控 Agent 自主性 ↗ #3 SpaceXAI 推出 Grok Build 插件市场 ↗ #4 阿里云发布 Meoo CLI 开源工具：支持本地 AI 项目一键部署上线 ↗ #5 产品应用 Google 扩展 Gemini Notebooks 与 Chrome AI 功能至多国市场 ↗ #6 Midjourney 将默认模型更新至 V8.1 ↗ #7 技术与洞察 Ai2 推出 ModSleuth 追踪 LLM…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260613/20260613001848883491be04_cover_98d5.png" alt=""></p>
 <h1>AI 早报 2026-06-12</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1BnEk6eE7x">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=pxxBSC8bidM">YouTube</a></p>
 <h2>概览</h2>
