@@ -1,5 +1,192 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo可能出现接收不到最新文章以及接收文章延迟的问题。建议使用其他RSS阅读器。</description><atom:link href="https://daily.juya.uk/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://daily.juya.uk/icon.png</url><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 13 Jun 2026 00:46:16 +0000</lastBuildDate><itunes:image href="https://daily.juya.uk/icon.png"/><webfeeds:icon>https://daily.juya.uk/icon.png</webfeeds:icon><webfeeds:logo>https://daily.juya.uk/icon.png</webfeeds:logo><item><title>2026-06-13</title><link>https://daily.juya.uk/issue-2/</link><description>AI 早报 2026-06-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 月之暗面发布 Kimi K2.7 Code 并开源 ↗ #1 Kimi 宣布推出全球首张 AI 原生信用卡并开启预约 ↗ #2 模型发布 MiniMax 正式开放 M3 模型权重：约 428B 总参数和 23B 激活参数 ↗ #3 华为发布开源盘古 openPangu 2.0 模型，计划 6 月 30 日起陆续开源核心组件 #4 PaddleOCR 发布 PP-OCRv6 ↗ #5 智源研究院在智源大会发布多款大模型及智能体 ↗ #6 开发生态 OpenAI 开发者网站上线可生成自定义指南的 docs Agent ↗ #7 OpenAI 为 Codex 浏览器推出开发者模式 ↗ #8 微信开源 ai-mode-skills 仓…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260613/202606130836053372871d3d_cover_f538.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo可能出现接收不到最新文章以及接收文章延迟的问题。建议使用其他RSS阅读器。</description><atom:link href="https://daily.juya.uk/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://daily.juya.uk/icon.png</url><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 14 Jun 2026 00:47:40 +0000</lastBuildDate><itunes:image href="https://daily.juya.uk/icon.png"/><webfeeds:icon>https://daily.juya.uk/icon.png</webfeeds:icon><webfeeds:logo>https://daily.juya.uk/icon.png</webfeeds:logo><item><title>2026-06-14</title><link>https://daily.juya.uk/issue-3/</link><description>AI 早报 2026-06-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Z.ai 向全量用户开放旗舰模型 GLM-5.2，API 及开源版本计划下周上线 ↗ #1 ZCode 发布 3.0.0 版本并切换自研 Agent 内核 ↗ #2 美国政府以国家安全为由暂停外国人访问 Fable 5 与 Mythos 5 ↗ #3 Anthropic 重置 Claude 使用限额并开启退款 ↗ #4 Amazon 被曝向政府提出 Anthropic 模型安全担忧，引发监管介入 ↗ #5 模型发布 Zyphra 推出开源 TTS 模型 ZONOS2 ↗ #6 开发生态 OpenRouter 推出 Fusion API，多模型组合测试得分超越 GPT-5.5 ↗ #7 TRAE 为 6 月 12 日前购速通权益…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260614/202606140822526279139b37_cover_dc06.png" alt=""></p>
+<h1>AI 早报 2026-06-14</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1gRJs63EYX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=NAX7hHkg6gs">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Z.ai 向全量用户开放旗舰模型 GLM-5.2，API 及开源版本计划下周上线 <a href="https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w">↗</a> <code>#1</code></li>
+<li>ZCode 发布 3.0.0 版本并切换自研 Agent 内核 <a href="https://zcode.z.ai/changelog">↗</a> <code>#2</code></li>
+<li>美国政府以国家安全为由暂停外国人访问 Fable 5 与 Mythos 5 <a href="https://www.anthropic.com/news/fable-mythos-access">↗</a> <code>#3</code></li>
+<li>Anthropic 重置 Claude 使用限额并开启退款 <a href="https://x.com/ClaudeDevs/status/2065621176735646006">↗</a> <code>#4</code></li>
+<li>Amazon 被曝向政府提出 Anthropic 模型安全担忧，引发监管介入 <a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown">↗</a> <code>#5</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Zyphra 推出开源 TTS 模型 ZONOS2 <a href="https://www.zyphra.com/our-work/zonos2">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenRouter 推出 Fusion API，多模型组合测试得分超越 GPT-5.5 <a href="https://openrouter.ai/blog/announcements/fusion-beats-frontier/">↗</a> <code>#7</code></li>
+<li>TRAE 为 6 月 12 日前购速通权益用户全额重置次数 <a href="https://mp.weixin.qq.com/s/aO50vkcS1ajWEa0uQ5cp8Q">↗</a> <code>#8</code></li>
+<li>Databricks 推出 Omnigent：统一管控多 Agent 底层工具 <a href="https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents">↗</a> <code>#9</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>媒体报道：美国多州总检察长联盟对 OpenAI 展开调查 <a href="https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general">↗</a> <code>#10</code></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w">Z.ai 向全量用户开放旗舰模型 GLM-5.2，API 及开源版本计划下周上线</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>智谱</strong>宣布其最新旗舰模型 <code>GLM-5.2</code> 已面向 <code>GLM Coding Plan</code> 全量用户开放，使用 <code>glm-5.1</code> 会自动路由到 <code>glm-5.2</code>。该模型支持 <strong>1M</strong> 上下文，提供 <code>High</code> 和 <code>Max</code> 两档思考强度，编程任务建议使用 <code>Max</code> 级别以获得更深推理。其 API 及遵循 <code>MIT</code> 协议的开源版本计划于<strong>下周</strong>上线。同时，原有的非高峰期仅按 <strong>1</strong> 倍抵扣限时福利将延续至 <strong>9 月底</strong>。</p>
+</blockquote>
+<p><strong>Z.ai（智谱）</strong> 宣布新旗舰模型 <code>GLM-5.2</code> 面向 <strong>GLM Coding Plan</strong> 全量用户开放。</p>
+<p>该模型支持 <code>1M</code> 上下文，提供 <code>High</code> 和 <code>Max</code> 两档思考强度，官方建议编程使用 <code>Max</code> 档以获得更深推理。官方称其为迄今能力最强的开源模型。</p>
+<p><code>GLM-5.2</code> 的 <code>API</code> 及遵循 <code>MIT</code> 协议的开源版本计划于 <strong>下周</strong> 上线。</p>
+<p>在 <strong>GLM Coding Plan</strong> 中，其调用按高峰期（每日 <strong>14:00-18:00</strong>）<strong>3</strong> 倍、非高峰期 <strong>2</strong> 倍消耗额度。</p>
+<p>限时福利持续至 <strong>9月底</strong>，期间非高峰期调用仅按 <strong>1</strong> 倍抵扣。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/6120fd6e-12c3-4578-973e-5e2805d3bb49/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/6120fd6e-12c3-4578-973e-5e2805d3bb49/m002.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/6120fd6e-12c3-4578-973e-5e2805d3bb49/m003.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/6120fd6e-12c3-4578-973e-5e2805d3bb49/m004.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w">https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w</a></li>
+<li><a href="https://x.com/Zai_org/status/2065704919299235870">https://x.com/Zai_org/status/2065704919299235870</a></li>
+</ul>
+<hr>
+<h2><a href="https://zcode.z.ai/changelog">ZCode 发布 3.0.0 版本并切换自研 Agent 内核</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>智谱</strong>官方编程工具 <code>ZCode</code> <strong>3.0.0</strong>版本正式发布，全面切换至自研<code>Agent</code>内核并深度适配<code>GLM-5.2</code>。新版上线了分组式任务工作区与<code>Zread</code>智能知识库，大幅提升了长程推理和工程执行效果。目前，订阅用户可专享<strong>150%<strong>的使用配额，新用户则可获得连续</strong>5</strong>天、每日<strong>500</strong>万免费<code>Token</code>的开箱即用体验。</p>
+</blockquote>
+<p><strong>ZCode 3.0.0</strong> 正式发布，全面移除第三方框架并切换至自研 <code>ZCode Agent</code> 内核。官方称，新版本针对满血 <code>GLM-5.2</code> 的长程推理和大型工程执行链路进行了深度优化。</p>
+<p>整体任务完成效果显著优于第三方 <code>Agent</code>，并新增了分组式任务工作区、<code>Zread</code> 智能知识库及可视化 <code>Git</code> 分支图谱等功能。</p>
+<p>目前该版本已上线，已订阅 <strong>GLM Coding Plan</strong> 的用户可专享 <strong>150%</strong> 使用配额。首次使用的新用户则可获得连续 <strong>5</strong> 天、每日 <strong>500 万</strong> 免费 <code>Token</code> 的体验权益。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/e303507e-596c-442e-a57e-774e032dda36/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zcode.z.ai/changelog">https://zcode.z.ai/changelog</a></li>
+<li><a href="https://docs.bigmodel.cn/cn/coding-plan/overview">https://docs.bigmodel.cn/cn/coding-plan/overview</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/fable-mythos-access">美国政府以国家安全为由暂停外国人访问 Fable 5 与 Mythos 5</a> <code>#3</code></h2>
+<blockquote>
+<p>美国政府以国家安全为由向 <strong>Anthropic</strong> 发布出口管制指令，要求暂停所有外国人对 <code>Fable 5</code> 和 <code>Mythos 5</code> 模型的访问。<strong>Anthropic</strong> 为确保合规已对所有客户禁用这两个模型，其他所有 <strong>Anthropic</strong> 模型不受影响。<strong>Anthropic</strong> 称政府所依据的是一个狭窄的非通用<code>越狱</code>方法，认为这是误解，正在努力恢复访问。</p>
+</blockquote>
+<p><strong>美国政府</strong>以国家安全当局授权为由，向 <strong>Anthropic</strong> 发布出口管制指令。</p>
+<p>要求暂停任何外国国民对 <code>Fable 5</code> 和 <code>Mythos 5</code> 模型的所有访问权限。</p>
+<p>适用范围包括在<strong>美国境内和境外</strong>的所有外国人，也包括 <strong>Anthropic</strong> 的外籍员工。</p>
+<p>为确保合规，<strong>Anthropic</strong> 对所有客户禁用 <code>Fable 5</code> 和 <code>Mythos 5</code>。</p>
+<p><strong>Anthropic</strong> 表示正在遵守政府的法律指令并移除所有用户对 <code>Fable 5</code> 和 <code>Mythos 5</code> 的访问权限。</p>
+<p>但不同意因发现一个狭窄的潜在<strong>越狱</strong>就召回面向<strong>数亿人</strong>部署的商业模型。</p>
+<p><strong>Anthropic</strong> 为此中断向客户致歉，称这是一个误解，正在尽快努力恢复访问。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/a7783313-a982-4c97-8d86-3f96346f1b80/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/fable-mythos-access">https://www.anthropic.com/news/fable-mythos-access</a></li>
+<li><a href="https://x.com/AnthropicAI/status/2065597531644743999">https://x.com/AnthropicAI/status/2065597531644743999</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ClaudeDevs/status/2065621176735646006">Anthropic 重置 Claude 使用限额并开启退款</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 下线 <code>Claude Fable 5</code> 后，重置了所有用户的 <strong>5</strong> 小时及周使用限额。并通过邮件通知受影响用户，可在 <strong>2026 年 6 月 20 日</strong>前按比例申请退款。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方宣布，为确保符合<strong>美国政府</strong>的最新指令，已下线其 <code>Claude Fable 5</code> 模型，所有用户均不再拥有该模型的访问权限。</p>
+<p>作为补偿，该公司已重置了全球所有用户的 <strong>5 小时</strong>及每周使用限额，并允许用户在 <strong>2026 年 6 月 20 日</strong>前对未使用的额度积分申请退款。</p>
+<p>目前，用户仍可正常访问 <code>Claude</code> 的 <code>Opus</code>、<code>Sonnet</code> 及 <code>Haiku</code> 模型。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/2ba51b94-9e4b-4301-b37c-5d249dc0c6ae/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/2ba51b94-9e4b-4301-b37c-5d249dc0c6ae/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ClaudeDevs/status/2065621176735646006">https://x.com/ClaudeDevs/status/2065621176735646006</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown">Amazon 被曝向政府提出 Anthropic 模型安全担忧，引发监管介入</a> <code>#5</code></h2>
+<blockquote>
+<p>据报道，测试人员发现 <strong>Fable</strong> 护栏存在越狱漏洞，<strong>Amazon</strong> CEO <strong>Andy Jassy</strong> 因此向美国政府官员表达了对 <code>Fable 5</code> 模型安全风险的担忧。政府要求 <strong>Anthropic</strong> 修复或下线遭拒，进而实施了管制。</p>
+</blockquote>
+<p>据报道，<strong>Amazon</strong> <strong>CEO</strong> <strong>Andy Jassy</strong> 向美国政府官员表达了对其投资的 <strong>Anthropic</strong> 最新模型安全风险的担忧，促使官方对 <code>Fable 5</code> 和 <code>Mythos 5</code> 模型实施出口管制。</p>
+<p>据现任美国总统科技顾问委员会联合主席 <strong>David Sacks</strong> 称，一名测试人员发现了 <code>Fable</code> <code>护栏</code>的<code>越狱</code>漏洞。</p>
+<p>政府要求 <strong>Anthropic</strong> 修复或下线模型遭拒，进而实施了管制。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/071ae0b7-6316-4811-ba7b-076fafa66603/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/071ae0b7-6316-4811-ba7b-076fafa66603/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown">https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown</a></li>
+<li><a href="https://x.com/DavidSacks/status/2065853007619588171">https://x.com/DavidSacks/status/2065853007619588171</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.zyphra.com/our-work/zonos2">Zyphra 推出开源 TTS 模型 ZONOS2</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Zyphra</strong> 以 <strong>Apache 2.0</strong> 协议发布开源 TTS 模型 <code>ZONOS2</code>，采用 <code>MoE</code> 架构，总参数 <strong>8B</strong>、激活参数 <strong>900M</strong>，主打高保真零样本语音克隆，权重已开放下载。</p>
+</blockquote>
+<p><strong>ZONOS2</strong> 是 <strong>Zyphra</strong> 推出的下一代实时文本转语音模型，官方称其为首款开源 <code>MoE TTS</code> 模型。</p>
+<p>总参数量 <strong>8B</strong>、推理时激活参数 <strong>900M</strong>，基于 <code>DAC</code> <code>token</code> 生成 <strong>44.1 kHz</strong> 音频。</p>
+<p>支持零样本语音克隆并提供 <code>stable</code> 与 <code>expressive</code> 两种克隆模式。</p>
+<p>模型训练数据从上一代的约 <strong>20</strong> 万小时扩展至超过 <strong>600</strong> 万小时多语言语音。</p>
+<p>采用原始 <code>UTF-8</code> 字节输入而非音素化，支持分层语言覆盖与句中语码转换，单次生成最长 <strong>1</strong> 分钟。</p>
+<p>权重托管于 <strong>Hugging Face</strong>，推理代码托管于 <strong>GitHub</strong>。</p>
+<p>同时提供托管于 <strong>Zyphra Cloud</strong>（<code>AMD</code> 硬件）的在线试用及 <code>API</code>，发布后有免费推广期。</p>
+<p>官方还同期发布了 <code>ZTTS1-Eval</code> 评测基准及对应代码。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/665c98ea-8e9b-4bcd-b338-20093699f3a2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.zyphra.com/our-work/zonos2">https://www.zyphra.com/our-work/zonos2</a></li>
+<li><a href="https://github.com/Zyphra/ZONOS2">https://github.com/Zyphra/ZONOS2</a></li>
+<li><a href="https://huggingface.co/Zyphra/ZONOS2">https://huggingface.co/Zyphra/ZONOS2</a></li>
+</ul>
+<hr>
+<h2><a href="https://openrouter.ai/blog/announcements/fusion-beats-frontier/">OpenRouter 推出 Fusion API，多模型组合测试得分超越 GPT-5.5</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenRouter</strong>推出<code>Fusion API</code>。该<code>API</code>将任务分发给多个并行模型，再由裁判模型整合输出。官方测试数据显示，多模型组合优于单一模型，低成本组合超越了<code>GPT-5.5</code>，<strong>成本仅为一半</strong>。目前该功能已开放，开发者可通过<code>API</code>调用，普通用户也能在网页端体验。</p>
+</blockquote>
+<p><strong>OpenRouter</strong> 官方宣布推出 <code>Fusion API</code>，用户可通过单一接口将提示词分发给一组并行的参与模型，再由指定的裁判模型对响应进行结构化分析并生成最终答案。</p>
+<p>官方测试数据显示，在包含 <strong>100</strong> 项深度研究任务的 <code>DRACO</code> 基准测试中，多模型组合的表现均优于单一模型。</p>
+<p>其中，由 <code>Gemini 3 Flash</code>、<code>Kimi K2.6</code> 和 <code>DeepSeek V4 Pro</code> 组成的低成本模型组超越了 <code>GPT-5.5</code> 和 <code>Claude Opus 4.8</code>，且达到接近前沿模型 <code>Fable 5</code> 的水平，<strong>成本仅为一半</strong>。</p>
+<p>目前，开发者可通过 <code>API</code> 直接调用该功能，普通用户也可在聊天室网页端体验。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/bf07c539-34a4-4eb8-a2cc-46098b5bbf13/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openrouter.ai/blog/announcements/fusion-beats-frontier/">https://openrouter.ai/blog/announcements/fusion-beats-frontier/</a></li>
+<li><a href="https://openrouter.ai/fusion">https://openrouter.ai/fusion</a></li>
+<li><a href="https://openrouter.ai/docs/guides/features/server-tools/fusion">https://openrouter.ai/docs/guides/features/server-tools/fusion</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/aO50vkcS1ajWEa0uQ5cp8Q">TRAE 为 6 月 12 日前购速通权益用户全额重置次数</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>TRAE</strong> 宣布为 <strong>6 月 12 日</strong> <strong>18</strong> 点前购买速通权益的用户全额重置次数，各档位将分别满血恢复至 <strong>100</strong> 次、<strong>300</strong> 次或 <strong>1000</strong> 次。</p>
+</blockquote>
+<p><strong>TRAE</strong> 官方宣布，针对特定时间前购买其速通权益的用户，已将其消耗的使用次数全额重置。</p>
+<p>此次重置面向 <strong>6 月 12 日下午 18 点前</strong>购买的用户，其中 <code>速通 Pro</code> 恢复至 <strong>100 次</strong>，<code>Pro+</code> 恢复至 <strong>300 次</strong>，<code>Ultra</code> 恢复至 <strong>1000 次</strong>。</p>
+<p>已享有无限次数的 <code>优速通 Express</code> 用户不在此次范围，官方称未来将为其带来更多权益。</p>
+<p>该全新 <strong>4 档</strong> 体系旨在提供更快的响应及更多 <code>SOTA 模型</code>使用机会。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/abe26840-9459-4066-86bd-16e73ef16889/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/aO50vkcS1ajWEa0uQ5cp8Q">https://mp.weixin.qq.com/s/aO50vkcS1ajWEa0uQ5cp8Q</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents">Databricks 推出 Omnigent：统一管控多 Agent 底层工具</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Databricks</strong> 宣布开源了处于 Alpha 阶段的 <strong>AI Agent</strong> 元工具 <strong>Omnigent</strong>。该工具作为一个位于 <code>Claude Code</code>、<code>Codex</code> 等应用之上的控制层，支持跨工具整合调度、实时协作以及动态的安全与成本策略控制。</p>
+</blockquote>
+<p><strong>Databricks</strong> 宣布以 <strong>Apache 2.0</strong> 协议开源名为 <code>Omnigent</code> 的 AI Agent 元工具。</p>
+<p><code>Omnigent</code> 目前处于 <strong>Alpha 阶段</strong>，通过提供统一的 <code>API</code> 接口，其架构位于 <code>Claude Code</code>、<code>Codex</code>、<code>Pi</code> 及各类 <code>SDK</code> 等底层工具之上。</p>
+<p>该工具主要聚焦于组合、协作和控制三大核心问题，允许用户通过 <code>YAML</code> 配置在不同工具和模型间进行无缝切换或组合多 <code>Agent</code> 团队。</p>
+<p>此外，<code>Omnigent</code> 提供了包含 Web、移动端及原生应用在内的多平台实时协作支持，并内置了具备状态追踪能力的上下文安全策略与成本控制功能。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/dc06f24e-bd9b-40ed-aab1-ff778f283b06/8e720d55-5808-44b8-935a-a8ef53f0fb9c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents">https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents</a></li>
+<li><a href="https://github.com/omnigent-ai/omnigent">https://github.com/omnigent-ai/omnigent</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general">媒体报道：美国多州总检察长联盟对 OpenAI 展开调查</a> <code>#10</code></h2>
+<blockquote>
+<p>据媒体报道，美国多州总检察长联盟已对 <strong>OpenAI</strong> 展开调查，并向其发出传票，要求提供涵盖用户数据处理与 <code>模型表现</code> 等广泛业务的文件，<strong>OpenAI</strong> 称正在配合调查。</p>
+</blockquote>
+<p>据媒体报道，由美国多州总检察长组成的一个联盟已对人工智能公司 <strong>OpenAI</strong> 展开调查。</p>
+<p>据《<strong>华尔街日报</strong>》查阅的传票显示，纽约州总检察长于 <strong>周五</strong> 向 <strong>OpenAI</strong> 发出传票，要求其提供涵盖公司业务及对用户影响的广泛文件。</p>
+<p>该传票要求提供的文件涉及广告、用户参与度与留存率、消费者及健康数据的处理、与未成年人和老年人相关的活动、<code>深度学习模型</code>、<code>模型阿谀奉承</code>以及公司政策等。</p>
+<p><strong>OpenAI</strong> 一位发言人表示，公司正在配合此次调查。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general">https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general</a></li>
+<li><a href="https://www.wsj.com/tech/openai-investigated-by-coalition-of-state-attorneys-general-088a3928">https://www.wsj.com/tech/openai-investigated-by-coalition-of-state-attorneys-general-088a3928</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/jujuyaya/juya-ai-daily/issues/3</guid><pubDate>Sun, 14 Jun 2026 00:47:24 +0000</pubDate></item><item><title>2026-06-13</title><link>https://daily.juya.uk/issue-2/</link><description>AI 早报 2026-06-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 月之暗面发布 Kimi K2.7 Code 并开源 ↗ #1 Kimi 宣布推出全球首张 AI 原生信用卡并开启预约 ↗ #2 模型发布 MiniMax 正式开放 M3 模型权重：约 428B 总参数和 23B 激活参数 ↗ #3 华为发布开源盘古 openPangu 2.0 模型，计划 6 月 30 日起陆续开源核心组件 #4 PaddleOCR 发布 PP-OCRv6 ↗ #5 智源研究院在智源大会发布多款大模型及智能体 ↗ #6 开发生态 OpenAI 开发者网站上线可生成自定义指南的 docs Agent ↗ #7 OpenAI 为 Codex 浏览器推出开发者模式 ↗ #8 微信开源 ai-mode-skills 仓…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260613/202606130836053372871d3d_cover_f538.png" alt=""></p>
 <h1>AI 早报 2026-06-13</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1oMJ76bE73">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=kkkX1kHY-CQ">YouTube</a></p>
 <h2>概览</h2>
