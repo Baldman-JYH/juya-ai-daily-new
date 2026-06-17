@@ -1,5 +1,434 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo可能出现接收不到最新文章以及接收文章延迟的问题。建议使用其他RSS阅读器。</description><atom:link href="https://daily.juya.uk/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://daily.juya.uk/icon.png</url><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 16 Jun 2026 01:21:33 +0000</lastBuildDate><itunes:image href="https://daily.juya.uk/icon.png"/><webfeeds:icon>https://daily.juya.uk/icon.png</webfeeds:icon><webfeeds:logo>https://daily.juya.uk/icon.png</webfeeds:logo><item><title>2026-06-16</title><link>https://daily.juya.uk/issue-5/</link><description>AI 早报 2026-06-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 暂停 claude -p 和 Claude Agent SDK 等用途进行独立计费的变更 ↗ #1 字节跳动发布 Seedance-2.0-mini 视频生成模型 ↗ #2 模型发布 Kimi K2.7 Code高速版发布 输出速度提升至6倍 ↗ #3 微软开源代码探索模型 FastContext-1.0 ↗ #4 开发生态 DevEco Code 和 DevEco CLI 开源，提供鸿蒙原生 AI 编程能力 ↗ #5 Hermes Agent 引入异步subagent功能 不再阻塞聊天 ↗ #6 Warp 宣布支持接入 SuperGrok 订阅 ↗ #7 小米 MiMo 推出推荐计划，返利 20% 及 A…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260616/202606160910446794921393_cover_8ebd.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo可能出现接收不到最新文章以及接收文章延迟的问题。建议使用其他RSS阅读器。</description><atom:link href="https://daily.juya.uk/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://daily.juya.uk/icon.png</url><title>橘鸦AI早报</title><link>https://daily.juya.uk/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 17 Jun 2026 01:51:31 +0000</lastBuildDate><itunes:image href="https://daily.juya.uk/icon.png"/><webfeeds:icon>https://daily.juya.uk/icon.png</webfeeds:icon><webfeeds:logo>https://daily.juya.uk/icon.png</webfeeds:logo><item><title>2026-06-17</title><link>https://daily.juya.uk/issue-6/</link><description>AI 早报 2026-06-17 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 SpaceX 宣布正式以600亿美元收购 AI 编程工具 Cursor ↗ #1 智谱正式发布开源模型 GLM-5.2 ↗ #2 开发生态 OpenAI 修复 Codex 容量错误并将重置速率限制 ↗ #3 产品应用 支付宝开启AI版邀测 推出对话助手“阿宝” ↗ #4 Google 发布 Android 17 与 Wear OS 7，集成最新 AI 模型 ↗ #5 SpaceXAI 推出 Grok PowerPoint 插件 ↗ #6 QoderWork上线“意识”功能 支持记忆与技能进化 ↗ #7 模型发布 Qwen 团队发布 Qwen-Robot Suite 具身智能基础模型 ↗ #8 高德AmapAI发布基于Wan2.…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260617/202606170926067592926787_cover_6343.png" alt=""></p>
+<h1>AI 早报 2026-06-17</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV12cjj6eEnW">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=FPDbKGgEPbs">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>SpaceX 宣布正式以600亿美元收购 AI 编程工具 Cursor <a href="https://x.com/SpaceX/status/2066873915717136548">↗</a> <code>#1</code></li>
+<li>智谱正式发布开源模型 GLM-5.2 <a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5.2">↗</a> <code>#2</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenAI 修复 Codex 容量错误并将重置速率限制 <a href="https://x.com/thsottiaux/status/2066956441173323943">↗</a> <code>#3</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>支付宝开启AI版邀测 推出对话助手“阿宝” <a href="https://mp.weixin.qq.com/s/bG3id7bNvBOPfZF811T6Jw">↗</a> <code>#4</code></li>
+<li>Google 发布 Android 17 与 Wear OS 7，集成最新 AI 模型 <a href="https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/">↗</a> <code>#5</code></li>
+<li>SpaceXAI 推出 Grok PowerPoint 插件 <a href="https://x.ai/news/introducing-powerpoint-addin">↗</a> <code>#6</code></li>
+<li>QoderWork上线“意识”功能 支持记忆与技能进化 <a href="https://mp.weixin.qq.com/s/DJv1HIoBCzmkvLDh8PZDzg">↗</a> <code>#7</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Qwen 团队发布 Qwen-Robot Suite 具身智能基础模型 <a href="https://qwen-robotmanip.d-robotics.cc/">↗</a> <code>#8</code></li>
+<li>高德AmapAI发布基于Wan2.2的DreamX-World 1.0 <a href="https://amap-ml.github.io/DreamX_World/">↗</a> <code>#9</code></li>
+<li>微博 WeiboAI 发布 VibeThinker-3B 模型 <a href="https://arxiv.org/abs/2606.16140">↗</a> <code>#10</code></li>
+<li>Cartesia推出Sonic-3.5文本转语音与Ink-2语音转文本模型 <a href="https://x.com/krandiash/status/2066559212533190917">↗</a> <code>#11</code></li>
+<li>百灵大模型发布 Ling &amp; Ring 2.6 技术报告 <a href="https://mp.weixin.qq.com/s/j8ZXKvDZzMkSSiUyXecqGA">↗</a> <code>#12</code></li>
+<li>Subquadratic 发布 SubQ 1.1 Small 模型卡，支持最高 12M tokens 上下文 <a href="https://subq.ai/subq-1-1-small-technical-report">↗</a> <code>#13</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 发布 Claude Code 会话研究报告 <a href="https://www.anthropic.com/research/claude-code-expertise">↗</a> <code>#14</code></li>
+<li>OpenAI推出部署模拟技术以预测AI模型行为 <a href="https://openai.com/index/deployment-simulation/">↗</a> <code>#15</code></li>
+<li>OpenAI 团队详解 Codex 操控电脑的三种方式 <a href="https://x.com/dotey/status/2067033481142509588">↗</a> <code>#16</code></li>
+<li>NVIDIA GEAR 联合多所高校推出 ENPIRE 系统 <a href="https://research.nvidia.com/labs/gear/enpire/">↗</a> <code>#17</code></li>
+<li>Artificial Analysis 发布 Intelligence Index v4.1 评估基准 <a href="https://artificialanalysis.ai">↗</a> <code>#18</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>SiliconFlow完成超20亿元B轮融资 <a href="https://mp.weixin.qq.com/s/vUt5GuHHpEFfKF_q8j4ToA">↗</a> <code>#19</code></li>
+<li>数据显示 ChatGPT 全球份额降至 46.4% <a href="https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time">↗</a> <code>#20</code></li>
+<li>微软因 AI 负载激增为 GitHub 引入 AWS 容量 <a href="https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6">↗</a> <code>#21</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Mistral AI 宣布今夏将发布全新开放权重模型 <a href="https://x.com/arthurmensch/status/2066913356548542827">↗</a> <code>#22</code></li>
+<li>Cursor 推出代码托管服务 Origin <a href="https://x.com/cursor_ai/status/2067012220832329782">↗</a> <code>#23</code></li>
+<li>腾讯网盘官网上线：支持多应用数据互通与 Agent 调用 <a href="https://drive.tencent.com/home">↗</a> <code>#24</code></li>
+<li>报道称 DeepSeek完成超70亿美元融资 外部投资者无投票权且设五年锁定期 <a href="https://www.reuters.com/world/asia-pacific/chinas-deepseek-closes-over-7-billion-funding-with-unusual-deal-structure-2026-06-16/">↗</a> <code>#25</code></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/SpaceX/status/2066873915717136548">SpaceX 宣布正式以600亿美元收购 AI 编程工具 Cursor</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>SpaceX</strong> 官方宣布，将以 <strong>600 亿美元</strong> 的全股票交易方式正式收购 AI 编程工具 <code>Cursor</code>。该交易预计于 <strong>今年第三季度</strong> 完成。</p>
+</blockquote>
+<p><strong>SpaceX</strong> 官方宣布已行使期权，将以 <strong>600 亿美元</strong>的全股票交易方式收购 AI 编程工具 <code>Cursor</code>，交易预计于 <strong>今年第三季度</strong>完成。</p>
+<p>官方称，双方在<strong>过去数月内</strong>已联合训练新模型，旨在结合 <code>Cursor</code> 的产品分发能力与 <strong>SpaceX</strong> 的超级计算机资源。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/4470b88a-e909-44f8-b056-94c1073aa1ff/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/SpaceX/status/2066873915717136548">https://x.com/SpaceX/status/2066873915717136548</a></li>
+<li><a href="https://x.com/cursor_ai/status/2066875698346954891">https://x.com/cursor_ai/status/2066875698346954891</a></li>
+</ul>
+<hr>
+<h2><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5.2">智谱正式发布开源模型 GLM-5.2</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>智谱AI</strong>正式发布开源模型<code>GLM-5.2</code>。该模型主打真正可用的<code>1M</code>上下文与长程<code>Coding Agent</code>任务能力。官方称其在部分真实测试中超越 <code>Opus</code>，在多项编程基准上达到开源 <code>SOTA</code>。目前该模型已在<code>API</code>、<code>Z.ai</code>、<strong>智谱清言</strong>及<code>Coding Plan</code>上线。模型权重已采用 <strong>MIT</strong> 协议开源，<code>API</code> 输入与输出定价分别为 <strong>8元</strong> 与 <strong>28元</strong> 每百万 <code>tokens</code>。</p>
+</blockquote>
+<p><strong>智谱AI</strong>最新发布的旗舰基座模型 <code>GLM-5.2</code> 专为长程任务设计，支持真正可用的 <code>1M</code> 上下文与最大 <code>128K</code> 输出，并针对大规模实现与复杂调试等场景进行了专项强化。</p>
+<p>官方称其在部分真实测试中超越 <strong>Opus</strong>，在多项编程基准上达到开源 <code>SOTA</code>，并在盲测系统 <code>Code Arena</code> 取得全球可用模型第一。</p>
+<p>模型权重已采用 <strong>MIT</strong> 协议开源，<code>API</code> 输入与输出定价分别为 <strong>8 元</strong> 与 <strong>28 元</strong> 每百万 <code>tokens</code>。</p>
+<p>目前 <code>GLM-5.2</code> 已向 <strong>GLM Coding Plan</strong> 订阅用户开放，并在<strong>智谱清言</strong>网页版及 <code>Z.ai Chat</code> 上线。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/7b65b78c-7ba8-43c8-9e9a-cae9ddc69e1b/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/7b65b78c-7ba8-43c8-9e9a-cae9ddc69e1b/m002.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/7b65b78c-7ba8-43c8-9e9a-cae9ddc69e1b/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5.2">https://docs.bigmodel.cn/cn/guide/models/text/glm-5.2</a></li>
+<li><a href="https://huggingface.co/zai-org/GLM-5.2">https://huggingface.co/zai-org/GLM-5.2</a></li>
+<li><a href="https://chat.z.ai/">https://chat.z.ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/thsottiaux/status/2066956441173323943">OpenAI 修复 Codex 容量错误并将重置速率限制</a> <code>#3</code></h2>
+<blockquote>
+<p>部分 <code>Codex</code> 用户于近期遭遇"模型容量已满"错误，<strong>OpenAI</strong> 方面称已修复该问题，并将在 <strong>24 小时</strong> 内重置速率限制。官方账号同时宣布 <code>Computer use</code> 等功能本周向 <strong>EEA</strong>、<strong>英国</strong>及<strong>瑞士</strong>用户推出。</p>
+</blockquote>
+<p>部分 <strong>Codex</strong> 用户于近期遭遇 <strong>"模型容量已满"</strong> 错误。</p>
+<p><strong>OpenAI</strong> 方面称已修复该问题，并将在 <strong>24 小时</strong> 内重置速率限制。</p>
+<p><strong>OpenAI Developers</strong> 官方账号宣布，<code>Codex</code> 的 <code>Computer use</code>、<code>Chrome</code> 扩展、<code>个性化记忆</code> 和 <code>Chronicle</code> 功能本周起向 <strong>EEA</strong>、<strong>英国</strong> 和 <strong>瑞士</strong> 用户推出。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/6184adff-a9b8-4040-8462-f179877c5d8d/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/6184adff-a9b8-4040-8462-f179877c5d8d/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/thsottiaux/status/2066956441173323943">https://x.com/thsottiaux/status/2066956441173323943</a></li>
+<li><a href="https://x.com/OpenAIDevs/status/2066916479438930166">https://x.com/OpenAIDevs/status/2066916479438930166</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/bG3id7bNvBOPfZF811T6Jw">支付宝开启AI版邀测 推出对话助手“阿宝”</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>支付宝</strong>宣布开启AI版<strong>支付宝</strong>邀测，用户右滑可唤起AI助手<code>“阿宝”</code>，通过对话或语音安排办事。资金环节由用户确认，目前正逐步开放并已发出<code>邀请码</code>。</p>
+</blockquote>
+<p><strong>支付宝</strong>开启 <strong>AI 版支付宝</strong>邀测。</p>
+<p>用户右滑即可进入以对话框和资产页面为主的清爽新版界面，并与新推出的 <strong>AI</strong> 助手 <strong>“阿宝”</strong> 交互。</p>
+<p>用户通过文字或语音下达指令后，<strong>“阿宝”</strong> 会自动匹配 <code>小程序</code> 和 <code>服务入口</code> 代办事项。目前已有 <strong>上万个</strong> 服务适配。</p>
+<p>官方强调所有涉及资金变动和支付环节均需用户本人确认。</p>
+<p>用户可在 <code>AI版</code> 和 <code>经典版</code> 间随意切换。</p>
+<p>目前该版本仍在逐步开放中。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/7896aa44-944f-4e3c-ad41-5ae03f366373/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/bG3id7bNvBOPfZF811T6Jw">https://mp.weixin.qq.com/s/bG3id7bNvBOPfZF811T6Jw</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/">Google 发布 Android 17 与 Wear OS 7，集成最新 AI 模型</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Google</strong> 发布了 <strong>Android 17</strong> 与 <strong>Wear OS 7</strong> 正式版，首发搭载于 <code>Pixel</code> 设备。伴随该版本推出的 <code>Pixel Drop</code> 更新带来了多项 <code>AI 模型</code> 集成与设备功能升级，涵盖了 <strong>音乐生成</strong>、<strong>多任务处理</strong>及 <strong>紧急检测</strong> 等新特性。</p>
+</blockquote>
+<p><strong>Google</strong> 在最新发布的 <strong><code>Android 17</code></strong> 和 <strong><code>Wear OS 7</code></strong> 中引入了多项 <strong>AI</strong> 能力。</p>
+<p>这包括在 <strong><code>Gemini</code></strong> 应用中通过文本和图像生成音乐的 <strong><code>Lyria 3</code></strong> 模型。</p>
+<p>以及支持在对话中编辑视频的 <strong><code>Gemini Omni</code></strong>。</p>
+<p>本次发布的 <strong>Pixel Drop</strong> 更新不仅为 <strong>Pixel</strong> 设备带来了 <strong>Quick Share</strong> 兼容 <strong>Apple AirDrop</strong>。</p>
+<p>还有自拍与屏幕同步录制等系统新特性。</p>
+<p>还增强了 <strong>Pixel Watch</strong> 的车祸与跌倒紧急检测联动。</p>
+<p>此外，<strong><code>Wear OS</code></strong> 计划于 <strong>今年夏季</strong> 引入更多 <strong><code>Gemini Intelligence</code></strong> 功能。</p>
+<p>官方称其电池续航最高可提升 <strong>10%</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/">https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/news/introducing-powerpoint-addin">SpaceXAI 推出 Grok PowerPoint 插件</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>SpaceXAI</strong> 上线 <strong>Grok</strong> <code>PowerPoint</code> 插件，支持结合实时数据与 <code>MCPs</code>，在幻灯片中直接生成图表、图像并优化排版。</p>
+</blockquote>
+<p><strong>SpaceXAI</strong> 官方宣布推出 <strong>Microsoft 365</strong> 加载项 <code>Grok for PowerPoint</code>。</p>
+<p>该加载项允许用户利用提示词快速生成完整的演示文稿，并支持结合实时网络或 <strong>X</strong> 搜索、<code>Grok connectors</code>（如近期电子邮件、<code>SharePoint</code> 及 <strong>Google Drive</strong>）以及 <code>MCPs</code> 来撰写内容与生成图像。</p>
+<p>用户目前可直接从 <strong>Microsoft Marketplace</strong> 添加该工具，进而在不离开应用的情况下完成幻灯片排版与重构。</p>
+<p>同系列功能也已支持 <code>Word</code> 和 <code>Excel</code>。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/b235223d-ea52-4d90-b565-be370502941c/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/news/introducing-powerpoint-addin">https://x.ai/news/introducing-powerpoint-addin</a></li>
+<li><a href="https://marketplace.microsoft.com/en-us/product/office/WA200011057?tab=Overview">https://marketplace.microsoft.com/en-us/product/office/WA200011057?tab=Overview</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/DJv1HIoBCzmkvLDh8PZDzg">QoderWork上线“意识”功能 支持记忆与技能进化</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>阿里</strong>桌面AI助理<code>QoderWork</code>上线“意识”功能，集成<strong>记忆</strong>、<strong>反思</strong>、<strong>技能进化</strong>三大模块，支持主动整理冗余信息并沉淀高频任务为可复用技能。</p>
+</blockquote>
+<p><strong>阿里</strong>桌面<strong>AI</strong>助理 <strong>QoderWork</strong> 正式上线“意识”功能，包含<code>记忆</code>、<code>反思</code>和<code>技能进化</code>三个模块。</p>
+<p>该系统采用本地 <strong>Markdown</strong> 文本存放分层<code>记忆</code>，并通过<code>多因子加权模型</code>实时评估对话以触发<code>反思</code>流程，进而将高频任务沉淀为可复用<code>技能</code>。</p>
+<p>目前，所有<code>记忆</code>数据均在本地生成并允许用户直接查看、编辑或删除。</p>
+<p>系统自动生成的<code>技能</code>建议也需由用户决定是否采纳。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/0625d3fd-89ea-4d51-b385-bcdf7b85c895/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/DJv1HIoBCzmkvLDh8PZDzg">https://mp.weixin.qq.com/s/DJv1HIoBCzmkvLDh8PZDzg</a></li>
+</ul>
+<hr>
+<h2><a href="https://qwen-robotmanip.d-robotics.cc/">Qwen 团队发布 Qwen-Robot Suite 具身智能基础模型</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Qwen</strong> 团队发布 <strong>Qwen-Robot Suite</strong>，包含三个具身智能基础模型，旨在弥合视觉语言理解与物理控制之间的鸿沟。目前上述模型均可独立可用，官方已开放部分实验性体验功能。</p>
+</blockquote>
+<p><strong>Qwen</strong> 团队正式发布 <code>Qwen-Robot Suite</code>，通过三个基础模型将语言指令与不同类型的物理动作进行对齐。</p>
+<p>其中，<code>Qwen-RobotNav</code> 统一了五类导航任务并在多个基准测试中达到 <strong>SOTA</strong>。</p>
+<p><code>Qwen-RobotManip</code> 基于超过 <strong>3.8 万小时</strong> 开源数据训练，实现了跨 <strong>15 个</strong> 机型的操作控制。</p>
+<p><code>Qwen-RobotWorld</code> 则通过自然语言接口统一了 <strong>20 余种</strong> 机器人本体的世界动力学预测。</p>
+<p>目前这三个模型可独立可用。</p>
+<p>官方已在浏览器中开放仅基于 <code>Qwen-RobotManip</code> 的实验性测试功能 <code>Chat2Robot</code>。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/13ae707d-9feb-4cd5-9484-3545487d2ab6/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/13ae707d-9feb-4cd5-9484-3545487d2ab6/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://qwen-robotmanip.d-robotics.cc/">https://qwen-robotmanip.d-robotics.cc/</a></li>
+<li><a href="https://qwen.ai/blog?id=qwen-robotsuite">https://qwen.ai/blog?id=qwen-robotsuite</a></li>
+</ul>
+<hr>
+<h2><a href="https://amap-ml.github.io/DreamX_World/">高德AmapAI发布基于Wan2.2的DreamX-World 1.0</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>高德AmapAI</strong>宣布推出基于<code>Wan2.2</code>的通用世界模型<code>DreamX-World 1.0</code>，支持<code>1分钟</code>连续视频生成与实时交互，官方称其<strong>Beta版即将上线</strong>。</p>
+</blockquote>
+<p><strong>高德地图AmapAI</strong>宣布推出通用世界模型 <code>DreamX-World 1.0</code>，该模型基于 <code>Wan2.2</code> 训练。</p>
+<p>官方称，<code>DreamX-World 1.0</code> 支持长达 <strong>1分钟</strong> 的连续视频生成、实时交互、精准摄像机控制及多风格生成。</p>
+<p>该模型还具备在完整一圈轨道运行后保持画面完整的长期记忆能力。</p>
+<p>官方表示，该模型的 <strong>Beta</strong> 版本即将上线。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/7caf97b2-c3d9-4a4d-9059-2946a62b0eed/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://amap-ml.github.io/DreamX_World/">https://amap-ml.github.io/DreamX_World/</a></li>
+<li><a href="https://github.com/AMAP-ML/DreamX-World">https://github.com/AMAP-ML/DreamX-World</a></li>
+</ul>
+<hr>
+<h2><a href="https://arxiv.org/abs/2606.16140">微博 WeiboAI 发布 VibeThinker-3B 模型</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>WeiboAI</strong>发布开源模型<code>VibeThinker-3B</code>。官方称该<strong>3B</strong>模型在多项基准测试中达到旗舰大模型水平，但有社区讨论对其超高成绩提出过拟合质疑。</p>
+</blockquote>
+<p>微博 <strong>WeiboAI</strong> 发布了参数量为 <strong>3B</strong> 的开源模型 <code>VibeThinker-3B</code>。</p>
+<p><strong>官方数据</strong> 显示，该模型在 <code>AIME26</code>、<code>LiveCodeBench v6</code> 等可验证推理任务上达到第一梯队水平，声称其性能可媲美或超越 <code>DeepSeek V3.2</code> 等参数量大其数百倍的模型。</p>
+<p>该模型权重已在 <strong>Hugging Face</strong> 上以 <code>MIT License</code> 开源。</p>
+<p>不过，有社区讨论对该 <strong>3B</strong> 模型在复杂任务上的高分表示难以置信，认为除非存在严重的基准测试过拟合或数据泄漏，否则极难达到此水平。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/b55637c8-7ab4-4dc1-b4f8-b028e50bccb2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2606.16140">https://arxiv.org/abs/2606.16140</a></li>
+<li><a href="https://huggingface.co/WeiboAI/VibeThinker-3B">https://huggingface.co/WeiboAI/VibeThinker-3B</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/krandiash/status/2066559212533190917">Cartesia推出Sonic-3.5文本转语音与Ink-2语音转文本模型</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Cartesia</strong>发布了两款流式模型，<code>Sonic-3.5</code>用于文本转语音，<code>Ink-2</code>用于语音转文本。官方称这两款模型分别为各自领域排名第一的模型。</p>
+</blockquote>
+<p><strong>Cartesia</strong>发布 <code>Sonic-3.5</code> 文本转语音流式模型与 <code>Ink-2</code> 语音转文本流式模型，官方称两者分别为各自领域<strong>排名第一</strong>的模型，现已可集成至用户的语音 <strong>Agent</strong> 中使用。</p>
+<p>官方称新架构在速度和质量上实现了新突破，使 <strong>Cartesia</strong> 成为唯一同时拥有语音输出和语音输入<strong>排名第一</strong>模型的提供商。</p>
+<p>用户若从其他提供商迁移至 <strong>Cartesia</strong>，可获<strong>三个月免费</strong>使用。</p>
+<p>目前可通过官方页面体验真实语音 <strong>Agent</strong> 通话并注册参与该促销。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/89201243-71a1-45d9-99b6-572cded20e4a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/krandiash/status/2066559212533190917">https://x.com/krandiash/status/2066559212533190917</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/j8ZXKvDZzMkSSiUyXecqGA">百灵大模型发布 Ling &amp; Ring 2.6 技术报告</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>百灵大模型</strong>发布 <code>Ling &amp; Ring 2.6</code> 技术报告。该系列专为真实 <code>Agent</code> 工作流设计，<code>Ling-2.6</code> 聚焦高 <code>token</code> 效率，<code>Ring-2.6</code> 聚焦复杂推理，最高支持 <code>256K</code> 上下文。</p>
+</blockquote>
+<p><strong>百灵大模型</strong>正式发布 <code>Ling &amp; Ring 2.6</code> 技术报告，并已面向社区开源该系列的 <code>base</code> 与 <code>post-training checkpoints</code>。</p>
+<p>模型采用 <code>Lightning Attention</code> 与 <code>MLA</code> 结合的混合架构优化长上下文效率，划分为侧重即时响应的 <code>Ling-2.6</code> 与专注长程 <code>Agent</code> 工作流的 <code>Ring-2.6</code>。</p>
+<p>根据官方提供的数据，<code>Ling-2.6-flash</code> 在 <strong>4×H20</strong> 硬件上吞吐达 <strong>340 tokens/s</strong>，而 <code>Ring-2.6-1T</code> 在多个 <code>Agent</code> 评测中表现稳定。</p>
+<p>官方同时指出，当前模型在长程 <code>Agent</code> 任务的鲁棒性上仍弱于短程任务。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/80647dc5-04dd-42e2-a60b-2d3228aa5cd2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/j8ZXKvDZzMkSSiUyXecqGA">https://mp.weixin.qq.com/s/j8ZXKvDZzMkSSiUyXecqGA</a></li>
+</ul>
+<hr>
+<h2><a href="https://subq.ai/subq-1-1-small-technical-report">Subquadratic 发布 SubQ 1.1 Small 模型卡，支持最高 12M tokens 上下文</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Subquadratic</strong> 发布 <code>SubQ 1.1 Small</code> 模型卡，采用 <code>SSA</code> 稀疏注意力，支持最高 <strong>12M</strong> <strong>tokens</strong> 上下文，正面向部分设计合作伙伴部署。</p>
+</blockquote>
+<p><strong>Subquadratic</strong> 发布了 <code>SubQ 1.1 Small</code> 的模型卡，这是其 <strong>Subquadratic Sparse Attention（SSA）</strong> 模型的第二个迭代版本，定位为最小规格。</p>
+<p>官方称该模型在 <strong>1M tokens</strong> 时比 <code>dense attention</code> 减少 <strong>64.5</strong> 倍计算量、比 <strong>FlashAttention-2</strong> 快 <strong>56</strong> 倍，并在 <code>needle-in-a-haystack</code> 测试中实现 <strong>1M</strong> 至 <strong>12M tokens</strong> 近满分检索。基准结果由 <strong>Appen</strong> 独立验证。</p>
+<p>该模型目前正面向部分设计合作伙伴部署。官方计划在 <strong>今年晚些时候</strong> 推出 <strong>2M</strong> 至 <strong>12M tokens</strong> 的更广泛模型阵容。</p>
+<p>社区讨论对其核心技术实现细节公开不足提出质疑，认为连续两次发布均缺少架构、代码和 <code>kernel</code> 级别说明。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/85ec0c61-3c09-4c60-8200-54eda034e35c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://subq.ai/subq-1-1-small-technical-report">https://subq.ai/subq-1-1-small-technical-report</a></li>
+<li><a href="https://subq.ai/docs/subq-1-1-small-model-card.pdf">https://subq.ai/docs/subq-1-1-small-model-card.pdf</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/research/claude-code-expertise">Anthropic 发布 Claude Code 会话研究报告</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>发布<code>Claude Code</code>研究报告，分析了约<strong>四十万</strong>个会话。数据显示，<strong>七个月</strong>内，<code>Agent</code>任务的经济价值增长<strong>百分之二十七</strong>。报告指出，<strong>领域知识</strong>决定编码成败，非软件职业的<code>Agent</code>编码成功率已经逼近专业工程师。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 于 <strong>2026 年 6 月</strong> 发布最新研究，分析了 <strong>2025 年 10 月至 2026 年 4 月</strong> 间约 <strong>40 万</strong> 个 <code>Claude Code</code> 会话。</p>
+<p>官方数据显示，用户通常负责规划而 <code>Claude</code> 负责执行，<code>Agent</code> 编码任务的经济价值在此期间增长了 <strong>27%</strong>。</p>
+<p>报告指出，领域专业知识而非编程能力是成功的核心要素，非软件职业的编码成功率已与软件工程师相近。</p>
+<p>部分社区用户则在讨论中质疑数据分析是否读取了私人聊天记录，并抱怨模型性能下降。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/21f55db8-8e79-40a2-aaed-4277cb415f27/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/21f55db8-8e79-40a2-aaed-4277cb415f27/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/research/claude-code-expertise">https://www.anthropic.com/research/claude-code-expertise</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/deployment-simulation/">OpenAI推出部署模拟技术以预测AI模型行为</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布推出“<strong>Deployment Simulation</strong>”方法，通过重播真实历史对话来预测 <code>大模型</code> 在发布前的不良行为发生率。<strong>OpenAI</strong> 对齐研究团队进一步验证称，外部审计可使用公开的 <code>WildChat</code> 数据集预测 <code>GPT-5</code> 系列模型的真实故障率。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 官方发布了名为“<code>Deployment Simulation</code>”的模型行为预测方法。</p>
+<p>该方法通过使用新模型重新生成历史生产数据中的助手回复，来预测模型发布前的风险并降低模型的“<code>评估意识</code>”。</p>
+<p>官方称，在 <code>GPT-5</code> 系列模型中，该方法的预测中位数乘法误差为 <strong>1.5</strong> 倍，并成功在发布前发现了“<strong>calculator hacking</strong>”等新型对齐问题。</p>
+<p>配套的对齐研究博客指出，外部评估者可使用公开的 <strong><code>WildChat</code></strong> 数据集进行部署模拟，其在 <code>GPT-5.1</code>、<code>5.2</code> 和 <code>5.4</code> 模型上的预测平均误差约为真实数据的 <strong>3</strong> 倍，但目前在涉及工具调用的 <code>Agent</code> 工作流中预测表现较弱。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/5b835cc4-708d-44d0-9c1a-421267561655/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/5b835cc4-708d-44d0-9c1a-421267561655/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/deployment-simulation/">https://openai.com/index/deployment-simulation/</a></li>
+<li><a href="https://alignment.openai.com/validating-public-evals/">https://alignment.openai.com/validating-public-evals/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/dotey/status/2067033481142509588">OpenAI 团队详解 Codex 操控电脑的三种方式</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>Codex</strong> 团队成员发文，详解了 <code>Codex</code> 操控电脑的三种方式：<strong>Computer Use</strong> 覆盖最广，可操作桌面应用；<code>Chrome</code> 扩展携带登录态，适合多标签页操作；内置浏览器无登录态，专供前端开发与调试。</p>
+</blockquote>
+<p><strong>OpenAI Codex</strong> 团队成员 <strong>Jason</strong> 撰写指南，详细介绍了 <code>Codex</code> 操控电脑的三种方式及其适用场景。</p>
+<p><code>Computer Use</code> 覆盖最广，能操作桌面应用，但在 Mac 上可后台运行而在 <strong>Windows</strong> 上需占据前台。</p>
+<p><code>Chrome</code> 扩展可携带用户的登录状态进行多标签页任务。</p>
+<p>内置浏览器则是无登录态的隔离环境，专供前端开发与调试。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/8d072a92-1af2-44af-944a-e7f15938811d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/dotey/status/2067033481142509588">https://x.com/dotey/status/2067033481142509588</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.nvidia.com/labs/gear/enpire/">NVIDIA GEAR 联合多所高校推出 ENPIRE 系统</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>NVIDIA GEAR</strong> 实验室联合 <strong>CMU</strong> 和 <strong>UC Berkeley</strong> 推出 <code>ENPIRE</code> 系统，首次让 <code>AI</code> 编程 <code>Agent</code> 在真实物理世界自主操控机器人完成实验循环。官方称训练策略在多项高精度操作任务上达 <strong>99%</strong> 成功率，代码将开源。</p>
+</blockquote>
+<p><strong>NVIDIA GEAR</strong> 实验室联合 <strong>CMU</strong> 和 <strong>UC Berkeley</strong> 发布 <strong>ENPIRE</strong> 系统，首次将 <code>AutoResearch</code> 概念从纯数字环境扩展到真实物理世界，让 <code>AI</code> 编程 <code>Agent</code> 在无需人类参与的情况下自主操控机器人完成环境重置、策略改进、实验评估和代码迭代的完整闭环。</p>
+<p>系统包含环境自动重置与验证、策略改进、多机器人并行评估和 <code>Agent</code> 驱动的代码进化四个核心模块。</p>
+<p>在 <code>PushT</code>、<code>pin</code> 插入、<code>GPU</code> 插入、穿扎带和剪扎带等高精度灵巧操作任务上，官方称训练出的策略达到 <strong>99%</strong> 的 <code>pass@8</code> 成功率。</p>
+<p>官方称所有代码将开源。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/a61f90ad-b9e2-4f5b-8714-893622efa463/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.nvidia.com/labs/gear/enpire/">https://research.nvidia.com/labs/gear/enpire/</a></li>
+<li><a href="https://x.com/DrJimFan/status/2066921736369766762">https://x.com/DrJimFan/status/2066921736369766762</a></li>
+</ul>
+<hr>
+<h2><a href="https://artificialanalysis.ai">Artificial Analysis 发布 Intelligence Index v4.1 评估基准</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>Artificial Analysis</strong> 发布 <strong>Intelligence Index v4.1</strong>，升级多项基准并转向 <code>Agent</code> 任务评估。据官方数据，<code>Claude Opus 4.8</code> 是目前最强可用模型，<code>DeepSeek V4 Pro</code> 以极低的单任务成本在性价比上领先。</p>
+</blockquote>
+<p>Artificial Analysis 官方发布了 <code>Intelligence Index v4.1</code>，将评估重心向 <strong>Agent</strong> 工作负载倾斜。</p>
+<p>该版本升级了 <code>GDPval-AA</code> 等三项评估基准，移除了已饱和的 <code>IFBench</code>，并新增了<strong>每任务成本</strong>、<strong>时间</strong>和 <strong>token 数</strong>等指标。</p>
+<p>根据官方提供的测试数据，<code>Claude Opus 4.8</code> 是目前可用的最智能模型，而 <code>DeepSeek V4 Pro</code> 则以<strong>极低的单任务成本</strong>在性价比上大幅领先。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/b6f61331-d6bf-4775-b7d8-d51b8b846bd4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://artificialanalysis.ai">https://artificialanalysis.ai</a></li>
+<li><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking">https://artificialanalysis.ai/methodology/intelligence-benchmarking</a></li>
+<li><a href="https://arxiv.org/abs/2510.04374">https://arxiv.org/abs/2510.04374</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/vUt5GuHHpEFfKF_q8j4ToA">SiliconFlow完成超20亿元B轮融资</a> <code>#19</code></h2>
+<blockquote>
+<p>近日，<strong>硅基流动</strong>完成超<strong>20亿元****B轮</strong>融资，投资方涵盖<strong>携程</strong>、<strong>金蝶</strong>、<strong>壁仞</strong>等机构。官方称，资金将用于深化<code>Token工厂</code>建设。</p>
+</blockquote>
+<p>近日，<strong>硅基流动SiliconFlow</strong>宣布完成超<strong>20亿元人民币</strong> <strong>B轮融资</strong>。</p>
+<p>投资方涵盖<strong>携程</strong>、<strong>金蝶</strong>、<strong>联通新沃</strong>、<strong>壁仞战投</strong>等贯穿<code>AI</code>全产业链的巨头与机构。</p>
+<p><strong>华兴资本</strong>担任独家财务顾问。</p>
+<p>官方数据显示，该公司过去一年日均<code>Token</code>调用量达数万亿，服务超<strong>1000万</strong>用户与<strong>1万</strong>家企业。</p>
+<p>营收同比增长超<strong>10倍</strong>。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/4638e388-2dad-4691-87a2-0b4afc6a24a7/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/4638e388-2dad-4691-87a2-0b4afc6a24a7/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/vUt5GuHHpEFfKF_q8j4ToA">https://mp.weixin.qq.com/s/vUt5GuHHpEFfKF_q8j4ToA</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490666&amp;idx=1&amp;sn=5b9fcdf61ea0bcba108d7039af394f98&amp;scene=21#wechat_redirect">https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490666&amp;idx=1&amp;sn=5b9fcdf61ea0bcba108d7039af394f98&amp;scene=21#wechat_redirect</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490595&amp;idx=1&amp;sn=97200dfa442a922256781d693274b9d1&amp;scene=21#wechat_redirect">https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490595&amp;idx=1&amp;sn=97200dfa442a922256781d693274b9d1&amp;scene=21#wechat_redirect</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490628&amp;idx=1&amp;sn=b9496be2fd4908aa3c359c0799ecffde&amp;scene=21#wechat_redirect">https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490628&amp;idx=1&amp;sn=b9496be2fd4908aa3c359c0799ecffde&amp;scene=21#wechat_redirect</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490136&amp;idx=1&amp;sn=67c519c5354caf47b62f9b5ed2a28b9e&amp;scene=21#wechat_redirect">https://mp.weixin.qq.com/s?__biz=Mzk0NzYzNTMyMA==&amp;mid=2247490136&amp;idx=1&amp;sn=67c519c5354caf47b62f9b5ed2a28b9e&amp;scene=21#wechat_redirect</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time">数据显示 ChatGPT 全球份额降至 46.4%</a> <code>#20</code></h2>
+<blockquote>
+<p>据分析机构 <strong>Sensor Tower</strong> 报告显示，<code>ChatGPT</code> 的全球市场份额首次跌破 <strong>50%</strong>，降至约 <strong>46.4%</strong>，但其仍以超 <strong>11 亿</strong>的月活跃用户数位居全球首位。</p>
+</blockquote>
+<p>据数据分析机构 <strong>Sensor Tower</strong> 的报告显示，<strong>ChatGPT</strong> 的市场份额首次跌破 <strong>50%</strong>，截至 <strong>5 月底</strong> 降至 <strong>46.4%</strong>，但该应用仍以超 <strong>11 亿</strong> 月活用户保持全球最受欢迎 <code>AI</code> 助手地位。</p>
+<p>市场格局正加速变化，用户开始在不同助手间迁移。</p>
+<p>其中 <code>Gemini</code> 和 <code>Claude</code> 分别以 <strong>27.7%</strong> 和 <strong>10.3%</strong> 的份额位居第二和第三。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/8af03886-173a-455e-a441-99ac4d1d29d5/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/8af03886-173a-455e-a441-99ac4d1d29d5/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time">https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6">微软因 AI 负载激增为 GitHub 引入 AWS 容量</a> <code>#21</code></h2>
+<blockquote>
+<p>据媒体报道，因 <code>AI</code> 使用量激增导致算力吃紧，<strong>微软</strong> 正为 <strong>GitHub</strong> 引入 <strong>AWS</strong> 云容量。<strong>微软</strong> 官方确认了这一多云策略调整，以缓解平台严峻的基础设施压力。</p>
+</blockquote>
+<p>据 <strong>Business Insider</strong> 援引知情人士报道，由于 <code>AI</code> 工作流导致使用量激增，<strong>微软</strong>正在为旗下 <strong>GitHub</strong> 增加 <strong>AWS</strong> 云容量。</p>
+<p><strong>微软</strong>官方确认了多云策略的转变，称此举旨在应对 <code>Agent</code> 开发带来的严峻基础设施压力。</p>
+<p>根据 <strong>GitHub</strong> 官方数据，预计 <strong>2026</strong> 年的 <code>commits</code> 将达 <strong>140 亿</strong>次，其设计容量目标已从 <strong>10</strong> 倍提升至 <strong>30</strong> 倍。</p>
+<p>这一举措打乱了 <strong>微软</strong>原定于 <strong>2027</strong> 年将 <strong>GitHub</strong> 完全迁移至 <code>Azure</code> 的计划，也暴露出 <code>Azure</code> 自身在应对 <code>AI</code> 需求时面临容量分配受限的瓶颈。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6">https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/arthurmensch/status/2066913356548542827">Mistral AI 宣布今夏将发布全新开放权重模型</a> <code>#22</code></h2>
+<blockquote>
+<p><strong>Mistral AI</strong> CEO <strong>Arthur Mensch</strong> 宣布，将于<strong>今夏</strong>推出全新“庞大但稀疏”的开放权重模型，并在 <strong>7 月</strong>面向特定合作伙伴启动早期体验。</p>
+</blockquote>
+<p><strong>Mistral AI</strong> CEO <strong>Arthur Mensch</strong> 宣布，公司将于<strong>今年夏天</strong>推出一个全新模型家族的首款产品。</p>
+<p>该模型被官方描述为“庞大但稀疏”，且该模型及后续版本均将采用开放权重形式。</p>
+<p><strong>Mistral AI</strong> 计划于 <strong>7 月</strong> 针对研究机构、政府和行业的关键合作伙伴开放早期体验计划。</p>
+<p>同时，其部署工具 <code>Studio</code> 和训练工具 <code>Forge</code> 可在客户本地设施或脱离美国服务商控制的专属设施上运行，以支持模型持续训练与外部可控部署。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/arthurmensch/status/2066913356548542827">https://x.com/arthurmensch/status/2066913356548542827</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/cursor_ai/status/2067012220832329782">Cursor 推出代码托管服务 Origin</a> <code>#23</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 宣布推出代码存储与托管服务 <strong>Origin</strong>，为团队和 <code>Agent</code> 提供代码托管、审查及协作空间。该产品预计将于 <strong>今年秋季</strong> 可用，目前已开放申请。</p>
+</blockquote>
+<p>Cursor 宣布推出代码存储与 Git 托管服务 <strong>Origin</strong>。</p>
+<p><strong>Origin</strong> 被定位为 <code>Git</code> 的竞争对手，专为团队和 <strong>Agent</strong> 提供代码协作场所，并针对 <strong>Agent</strong> 工作负载进行了扩展。</p>
+<p>官方表示，该服务支持通过 <code>API</code> 和 <code>MCP</code> 进行扩展，并内置了解决合并冲突和协同故障的 <strong>Agent</strong>。</p>
+<p><strong>Origin</strong> 预计将于 <strong>今年秋季</strong> 正式推出，用户目前已可加入官方的候补名单等待体验。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/57278f4a-9457-42d4-bc31-6e980226100f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/cursor_ai/status/2067012220832329782">https://x.com/cursor_ai/status/2067012220832329782</a></li>
+<li><a href="https://cursor.com/origin-waitlist">https://cursor.com/origin-waitlist</a></li>
+</ul>
+<hr>
+<h2><a href="https://drive.tencent.com/home">腾讯网盘官网上线：支持多应用数据互通与 Agent 调用</a> <code>#24</code></h2>
+<blockquote>
+<p>据报道，<strong>腾讯网盘</strong>官网近期上线并显示即将推出。据官方介绍，该产品支持连接多个 <code>AI</code> 应用，实现多应用数据互通，并允许 <code>Agent</code> 通过 <code>CLI</code> / <code>MCP</code> 调用网盘数据。</p>
+</blockquote>
+<p>媒体报道称 <strong>腾讯</strong> 网盘官网近期悄然上线，页面显示该全新产品状态为 <strong>“COMING SOON”</strong>。</p>
+<p>官方宣称，该网盘主打共享存储与聚合上下文，支持与 <code>腾讯文档</code>、<code>WorkBuddy</code> 等应用数据互通，并能通过 <code>OneID</code> 统一身份实现跨应用资产调用。</p>
+<p>此外，该产品支持 <code>Agent</code> 应用通过 <code>CLI</code> / <code>MCP</code> 调用网盘数据，并计划提供个人版、<code>SaaS</code> 版、<code>VPC</code> 版及私有化版等多种交付版本。</p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/acfab569-f006-4169-a24a-f3d43af1bb1e/m001.png" alt=""></p>
+<p><img src="https://assets.juya.uk/imagehub/aidaily/63431bf7-40b1-4177-8f23-e9aae8e074ef/acfab569-f006-4169-a24a-f3d43af1bb1e/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://drive.tencent.com/home">https://drive.tencent.com/home</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/world/asia-pacific/chinas-deepseek-closes-over-7-billion-funding-with-unusual-deal-structure-2026-06-16/">报道称 DeepSeek完成超70亿美元融资 外部投资者无投票权且设五年锁定期</a> <code>#25</code></h2>
+<blockquote>
+<p>据报道，<code>DeepSeek</code>日前完成首轮外部融资，金额超<strong>500亿元人民币</strong>，估值突破<strong>500亿美元</strong>。报道称，创始人<strong>梁文锋</strong>出资<strong>200亿元人民币</strong>，<strong>腾讯</strong>与<strong>宁德时代</strong>等参投，但除了国资背景的<code>人工智能</code>产业投资基金，其他外部投资者无投票权且面临<strong>五年锁定期</strong>。</p>
+</blockquote>
+<p>据媒体报道，<strong>DeepSeek</strong>已完成首轮外部融资，融资金额超<strong>70亿美元</strong>，投后估值突破<strong>500亿美元</strong>。</p>
+<p>该轮融资采用非常规架构，外部投资者的资金进入由<strong>CEO梁文锋</strong>管理的<code>有限合伙企业</code>，投资者仅获经济权益而无投票权及董事会席位，且需面临<strong>五年</strong><code>锁定期</code>。</p>
+<p>其中，<strong>梁文锋</strong>个人出资约<strong>200亿元人民币</strong>，<strong>腾讯</strong>、<strong>宁德时代</strong>、<strong>京东</strong>、<strong>网易</strong>及<strong>IDG资本</strong>等参与投资。</p>
+<p>国资背景的人工智能产业投资基金则作为例外直接注资并保留投票权。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/world/asia-pacific/chinas-deepseek-closes-over-7-billion-funding-with-unusual-deal-structure-2026-06-16/">https://www.reuters.com/world/asia-pacific/chinas-deepseek-closes-over-7-billion-funding-with-unusual-deal-structure-2026-06-16/</a></li>
+<li><a href="https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/">https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/jujuyaya/juya-ai-daily/issues/6</guid><pubDate>Wed, 17 Jun 2026 01:51:08 +0000</pubDate></item><item><title>2026-06-16</title><link>https://daily.juya.uk/issue-5/</link><description>AI 早报 2026-06-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 暂停 claude -p 和 Claude Agent SDK 等用途进行独立计费的变更 ↗ #1 字节跳动发布 Seedance-2.0-mini 视频生成模型 ↗ #2 模型发布 Kimi K2.7 Code高速版发布 输出速度提升至6倍 ↗ #3 微软开源代码探索模型 FastContext-1.0 ↗ #4 开发生态 DevEco Code 和 DevEco CLI 开源，提供鸿蒙原生 AI 编程能力 ↗ #5 Hermes Agent 引入异步subagent功能 不再阻塞聊天 ↗ #6 Warp 宣布支持接入 SuperGrok 订阅 ↗ #7 小米 MiMo 推出推荐计划，返利 20% 及 A…</description><content:encoded><![CDATA[<p><img src="https://assets.juya.uk/imagehub/20260616/202606160910446794921393_cover_8ebd.png" alt=""></p>
 <h1>AI 早报 2026-06-16</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1k9jT6TEa1">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=YsrBdFkj31s">YouTube</a></p>
 <h2>概览</h2>
