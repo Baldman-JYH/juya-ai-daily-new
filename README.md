@@ -24,11 +24,11 @@ RSS正常提供服务中。Folo 可能出现接收不到最新文章以及接收
 
 
 ## 最近更新
+- [2026-06-18](https://github.com/jujuyaya/juya-ai-daily/issues/7)--2026-06-18
 - [2026-06-17](https://github.com/jujuyaya/juya-ai-daily/issues/6)--2026-06-17
 - [2026-06-16](https://github.com/jujuyaya/juya-ai-daily/issues/5)--2026-06-16
 - [2026-06-15](https://github.com/jujuyaya/juya-ai-daily/issues/4)--2026-06-15
 - [2026-06-14](https://github.com/jujuyaya/juya-ai-daily/issues/3)--2026-06-14
-- [2026-06-13](https://github.com/jujuyaya/juya-ai-daily/issues/2)--2026-06-13
 
 ---
 
